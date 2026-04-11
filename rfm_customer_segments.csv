@@ -1,0 +1,794 @@
+Customer ID,Customer_Name,Region,Segment,Recency,Frequency,Monetary,Total_Profit,R_Score,F_Score,M_Score,RFM_Score,RFM_Total,RFM_Segment,KMeans_Cluster
+AA-10315,Alex Avila,Central,Consumer,185,5,5563.56,-362.8825,2,2,5,225,9,À Risque,4
+AA-10375,Allen Armold,West,Consumer,20,9,1056.39,277.3824,5,5,2,552,12,Potentiel Élevé,2
+AA-10480,Andrew Allen,South,Consumer,260,4,1790.5120000000002,435.8274,1,1,3,113,5,Perdus,1
+AA-10645,Anna Andreadi,East,Consumer,56,6,5086.9349999999995,857.8033,3,3,5,335,11,Clients Fidèles,2
+AB-10015,Aaron Bergman,West,Consumer,416,3,886.156,129.3465,1,1,1,111,3,Perdus,1
+AB-10060,Adam Bellavance,East,Home Office,55,8,7755.62,2054.5885,3,4,5,345,12,Clients Fidèles,0
+AB-10105,Adrian Barton,West,Consumer,42,10,14473.570999999998,5444.8055,4,5,5,455,14,Champions,0
+AB-10150,Aimee Bixby,East,Consumer,42,5,966.71,313.6597,4,2,2,422,8,Potentiel Élevé,4
+AB-10165,Alan Barnes,West,Consumer,26,8,1113.838,220.813,5,4,2,542,11,Potentiel Élevé,2
+AB-10255,Alejandro Ballentine,East,Home Office,167,9,914.5319999999999,264.5675,2,5,1,251,8,À Risque,2
+AB-10600,Ann Blume,West,Corporate,51,4,1515.862,-274.9604,4,1,2,412,7,Perdus,4
+AC-10420,Alyssa Crouse,West,Corporate,233,3,925.8,-62.1342,1,1,1,111,3,Perdus,1
+AC-10450,Amy Cox,Central,Consumer,12,7,5527.846,1366.0098,5,3,5,535,13,Clients Fidèles,2
+AC-10615,Ann Chong,East,Corporate,7,5,2537.6859999999997,298.8273,5,2,3,523,10,Potentiel Élevé,4
+AC-10660,Anna Chung,Central,Consumer,283,5,657.316,-28.700399999999995,1,2,1,121,4,À Risque,1
+AD-10180,Alan Dominguez,Central,Home Office,30,8,6106.88,1869.9294,4,4,5,445,13,Champions,2
+AF-10870,Art Ferguson,Central,Consumer,42,7,2052.908,317.9712,4,3,3,433,10,Clients Fidèles,2
+AF-10885,Art Foster,South,Consumer,416,4,861.565,-163.1175,1,1,1,111,3,Perdus,1
+AG-10270,Alejandro Grove,West,Consumer,279,5,2582.898,732.7399,1,2,3,123,6,À Risque,1
+AG-10300,Aleksandra Gannaway,West,Corporate,119,4,367.548,59.288399999999996,2,1,1,211,4,Perdus,4
+AG-10330,Alex Grayson,West,Consumer,9,5,660.972,-5.137100000000006,5,2,1,521,8,Potentiel Élevé,4
+AG-10390,Allen Goldenen,East,Consumer,115,5,200.945,69.2784,2,2,1,221,5,À Risque,4
+AG-10495,Andrew Gjertsen,East,Corporate,79,8,2356.855,295.6668,3,4,3,343,10,Clients Fidèles,2
+AG-10525,Andy Gerbode,South,Corporate,846,4,1455.038,-152.7613,1,1,2,112,4,Perdus,3
+AG-10675,Anna Gayman,Central,Consumer,98,7,3489.0396000000005,-246.42570000000003,3,3,4,334,10,Clients Fidèles,2
+AG-10765,Anthony Garverick,East,Home Office,78,4,170.584,-8.431000000000001,3,1,1,311,5,Perdus,4
+AG-10900,Arthur Gainer,West,Consumer,97,10,4510.797,343.6824,3,5,5,355,13,Clients Fidèles,2
+AH-10030,Aaron Hawkins,East,Corporate,13,7,1744.7,365.2152,5,3,3,533,11,Clients Fidèles,2
+AH-10075,Adam Hart,East,Corporate,35,10,3250.337,281.189,4,5,4,454,13,Champions,2
+AH-10120,Adrian Hane,West,Home Office,61,7,1735.5140000000001,-2.3145999999999773,3,3,2,332,8,Potentiel Élevé,2
+AH-10195,Alan Haines,South,Corporate,56,4,1587.452,-378.5509,3,1,2,312,6,Perdus,4
+AH-10210,Alan Hwang,West,Consumer,7,9,4805.344,1308.5546,5,5,5,555,15,Champions,2
+AH-10465,Amy Hunt,East,Consumer,231,5,2495.3916,-196.12009999999998,1,2,3,123,6,À Risque,1
+AH-10585,Angele Hood,Central,Consumer,22,4,738.504,83.96300000000001,5,1,1,511,7,Perdus,4
+AH-10690,Anna Häberlin,East,Corporate,411,12,7888.294,1298.0166,1,5,5,155,11,À Risque,0
+AI-10855,Arianne Irving,East,Consumer,14,10,4375.786,867.7271000000001,5,5,5,555,15,Champions,2
+AJ-10780,Anthony Jacobs,South,Corporate,76,7,4867.344,150.71300000000005,3,3,5,335,11,Clients Fidèles,2
+AJ-10795,Anthony Johnson,South,Corporate,167,7,4501.391,1158.7064,2,3,5,235,10,À Risque,2
+AJ-10945,Ashley Jarboe,South,Consumer,86,7,1839.24,521.1351999999999,3,3,3,333,9,Clients Fidèles,2
+AJ-10960,Astrea Jones,East,Consumer,75,3,629.2479999999999,60.4265,3,1,1,311,5,Perdus,4
+AM-10360,Alice McCarthy,Central,Corporate,29,5,814.012,194.9878,4,2,1,421,7,Potentiel Élevé,4
+AM-10705,Anne McFarland,South,Consumer,163,8,5664.022,1085.7326,2,4,5,245,11,À Risque,2
+AO-10810,Anthony O'Donnell,West,Corporate,502,1,161.28,12.096,1,1,1,111,3,Perdus,3
+AP-10720,Anne Pryor,East,Home Office,42,8,1638.554,285.7888,4,4,2,442,10,Potentiel Élevé,2
+AP-10915,Arthur Prichep,South,Consumer,99,10,3323.556,579.3113,3,5,4,354,12,Clients Fidèles,2
+AR-10345,Alex Russell,East,Corporate,112,4,1055.694,-221.0544,2,1,2,212,5,Perdus,4
+AR-10405,Allen Rosenblatt,East,Corporate,126,5,2236.128,-98.7646,2,2,3,223,7,À Risque,4
+AR-10510,Andrew Roberts,East,Consumer,15,5,264.86400000000003,43.6695,5,2,1,521,8,Potentiel Élevé,4
+AR-10540,Andy Reiter,East,Consumer,7,6,6608.448,2884.6208,5,3,5,535,13,Clients Fidèles,0
+AR-10570,Anemone Ratner,South,Consumer,535,1,88.15,32.633,1,1,1,111,3,Perdus,3
+AR-10825,Anthony Rawles,West,Corporate,59,8,4523.336,494.83519999999993,3,4,5,345,12,Clients Fidèles,2
+AS-10045,Aaron Smayling,South,Corporate,89,7,3050.692,-253.57459999999998,3,3,4,334,10,Clients Fidèles,2
+AS-10090,Adam Shillingsburg,South,Consumer,29,9,3255.31,64.53739999999998,4,5,4,454,13,Champions,2
+AS-10135,Adrian Shami,East,Home Office,42,2,58.82,21.8496,4,1,1,411,6,Perdus,4
+AS-10225,Alan Schoenberger,East,Corporate,23,5,4260.784,719.7751000000001,5,2,4,524,11,Potentiel Élevé,4
+AS-10240,Alan Shonely,South,Consumer,193,7,584.6080000000001,33.715799999999994,2,3,1,231,6,À Risque,4
+AS-10285,Alejandro Savely,West,Corporate,20,6,3214.236,354.62760000000003,5,3,4,534,12,Clients Fidèles,4
+AS-10630,Ann Steele,Central,Home Office,93,7,833.398,136.49190000000002,3,3,1,331,7,Potentiel Élevé,4
+AT-10435,Alyssa Tate,West,Home Office,22,6,1171.814,100.87680000000002,5,3,2,532,10,Potentiel Élevé,4
+AT-10735,Annie Thurman,West,Consumer,14,10,3831.864,974.107,5,5,4,554,14,Champions,2
+AW-10840,Anthony Witt,Central,Consumer,21,4,649.376,65.77250000000001,5,1,1,511,7,Perdus,4
+AW-10930,Arthur Wiediger,Central,Home Office,47,7,2852.968,-104.5486,4,3,4,434,11,Clients Fidèles,2
+AY-10555,Andy Yotov,West,Corporate,15,4,497.014,103.3499,5,1,1,511,7,Perdus,4
+AZ-10750,Annie Zypern,East,Consumer,161,6,1622.0179999999998,154.9503,2,3,2,232,7,À Risque,4
+BB-10990,Barry Blumstein,West,Corporate,106,5,744.3399999999999,11.583900000000007,2,2,1,221,5,À Risque,4
+BB-11545,Brenda Bowman,Central,Corporate,29,9,6765.728,1015.0749999999999,4,5,5,455,14,Champions,0
+BC-11125,Becky Castell,West,Home Office,203,9,2933.676,251.5974,2,5,4,254,11,À Risque,2
+BD-11320,Bill Donatelli,West,Consumer,34,12,5718.521,1094.5037,4,5,5,455,14,Champions,2
+BD-11500,Bradley Drucker,Central,Consumer,36,6,4411.2429999999995,1142.1225,4,3,5,435,12,Clients Fidèles,2
+BD-11560,Brendan Dodson,West,Home Office,279,2,320.54,116.714,1,1,1,111,3,Perdus,1
+BD-11605,Brian Dahlen,East,Consumer,98,7,3288.471,634.8463,3,3,4,334,10,Clients Fidèles,2
+BD-11620,Brian DeCherney,West,Consumer,70,6,1538.11,206.75689999999997,3,3,2,332,8,Potentiel Élevé,4
+BD-11635,Brian Derr,South,Consumer,10,3,582.646,141.53400000000002,5,1,1,511,7,Perdus,4
+BD-11725,Bruce Degenhardt,South,Consumer,94,6,1526.5,333.9791,3,3,2,332,8,Potentiel Élevé,4
+BD-11770,Bryan Davis,Central,Consumer,328,6,658.466,141.265,1,3,1,131,5,À Risque,1
+BE-11335,Bill Eplett,Central,Home Office,120,5,4204.676,1487.7739000000001,2,2,4,224,8,À Risque,4
+BE-11410,Bobby Elias,East,Consumer,99,5,2261.438,755.9150999999999,3,2,3,323,8,Potentiel Élevé,4
+BE-11455,Brad Eason,Central,Home Office,255,6,1727.652,139.20080000000002,1,3,2,132,6,À Risque,1
+BF-10975,Barbara Fisher,South,Corporate,92,7,599.798,227.4384,3,3,1,331,7,Potentiel Élevé,4
+BF-11005,Barry Franz,West,Home Office,40,4,1333.88,-291.38109999999995,4,1,2,412,7,Perdus,4
+BF-11020,Barry Französisch,Central,Corporate,75,8,2888.506,302.02,3,4,4,344,11,Clients Fidèles,2
+BF-11080,Bart Folk,East,Consumer,26,3,272.95,110.9272,5,1,1,511,7,Perdus,4
+BF-11170,Ben Ferrer,West,Home Office,17,11,5907.972,1538.2127,5,5,5,555,15,Champions,2
+BF-11215,Benjamin Farhat,West,Home Office,66,4,1585.162,523.2133,3,1,2,312,6,Perdus,4
+BF-11275,Beth Fritzler,West,Corporate,58,3,791.9899999999999,25.870199999999997,3,1,1,311,5,Perdus,4
+BG-11035,Barry Gonzalez,South,Consumer,29,8,2798.948,-711.4274,4,4,4,444,12,Champions,2
+BG-11695,Brooke Gillingham,East,Corporate,37,6,1874.172,107.5715,4,3,3,433,10,Clients Fidèles,4
+BG-11740,Bruce Geld,East,Consumer,58,6,1006.356,119.34790000000001,3,3,2,332,8,Potentiel Élevé,4
+BH-11710,Brosina Hoffman,West,Consumer,24,8,6255.351,802.7898,5,4,5,545,14,Champions,2
+BK-11260,Berenike Kampe,East,Consumer,78,6,659.1379999999999,-63.764399999999995,3,3,1,331,7,Potentiel Élevé,4
+BM-11140,Becky Martin,Central,Consumer,308,4,11789.63,-1659.9580999999998,1,1,5,115,7,Perdus,0
+BM-11575,Brendan Murry,East,Corporate,101,6,808.162,95.58160000000001,3,3,1,331,7,Potentiel Élevé,4
+BM-11650,Brian Moss,East,Corporate,34,11,7294.185,2199.2781,4,5,5,455,14,Champions,0
+BM-11785,Bryan Mills,East,Consumer,219,10,1338.842,137.7439,2,5,2,252,9,À Risque,2
+BN-11470,Brad Norvell,South,Corporate,25,4,265.296,36.6131,5,1,1,511,7,Perdus,4
+BN-11515,Bradley Nguyen,West,Consumer,10,5,1459.344,340.7054,5,2,2,522,9,Potentiel Élevé,4
+BO-11350,Bill Overfelt,West,Corporate,138,5,2682.728,278.77700000000004,2,2,3,223,7,À Risque,4
+BO-11425,Bobby Odegard,South,Consumer,76,2,130.83,59.4522,3,1,1,311,5,Perdus,4
+BP-11050,Barry Pond,East,Corporate,84,5,983.42,209.78300000000002,3,2,2,322,7,Potentiel Élevé,4
+BP-11095,Bart Pistole,Central,Corporate,18,12,2442.044,433.9751,5,5,3,553,13,Clients Fidèles,2
+BP-11155,Becky Pak,South,Consumer,90,6,1697.8609999999999,647.3847000000001,3,3,2,332,8,Potentiel Élevé,4
+BP-11185,Ben Peterman,West,Corporate,2,9,3675.861,363.5991,5,5,4,554,14,Champions,2
+BP-11230,Benjamin Patterson,West,Consumer,40,5,1181.49,-197.2695,4,2,2,422,8,Potentiel Élevé,4
+BP-11290,Beth Paige,Central,Consumer,13,7,2475.157,-319.0637,5,3,3,533,11,Clients Fidèles,2
+BS-11365,Bill Shonely,East,Corporate,559,5,10501.653,2616.0643999999998,1,2,5,125,8,À Risque,0
+BS-11380,Bill Stewart,Central,Corporate,29,5,3887.834,-17.532200000000024,4,2,4,424,10,Potentiel Élevé,4
+BS-11590,Brendan Sweed,West,Corporate,36,6,2454.928,381.7807,4,3,3,433,10,Clients Fidèles,4
+BS-11665,Brian Stugart,East,Consumer,583,3,3288.1099999999997,238.73680000000002,1,1,4,114,6,Perdus,3
+BS-11755,Bruce Stewart,West,Consumer,2,7,2562.382,-113.29840000000003,5,3,3,533,11,Clients Fidèles,2
+BS-11800,Bryan Spruell,East,Home Office,266,2,949.4300000000001,194.0516,1,1,1,111,3,Perdus,1
+BT-11305,Beth Thompson,West,Home Office,337,5,2567.656,417.5918,1,2,3,123,6,À Risque,1
+BT-11395,Bill Tyler,Central,Corporate,303,6,2186.6130000000003,257.9163,1,3,3,133,7,À Risque,1
+BT-11440,Bobby Trafton,West,Consumer,561,4,603.876,-77.5256,1,1,1,111,3,Perdus,3
+BT-11485,Brad Thomas,East,Home Office,660,2,415.19599999999997,126.8694,1,1,1,111,3,Perdus,3
+BT-11530,Bradley Talbott,West,Home Office,92,5,2684.4919999999997,409.4983,3,2,3,323,8,Potentiel Élevé,4
+BT-11680,Brian Thompson,East,Consumer,21,7,3196.752,447.74839999999995,5,3,4,534,12,Clients Fidèles,2
+BV-11245,Benjamin Venier,Central,Corporate,335,5,1523.2730000000001,315.2214,1,2,2,122,5,À Risque,1
+BW-11065,Barry Weirich,South,Consumer,213,3,385.516,-58.28659999999999,2,1,1,211,4,Perdus,1
+BW-11110,Bart Watters,Central,Corporate,122,8,4750.358,921.2574,2,4,5,245,11,À Risque,2
+BW-11200,Ben Wallace,South,Consumer,204,6,1738.406,246.9973,2,3,2,232,7,À Risque,4
+CA-11965,Carol Adams,South,Corporate,97,6,3789.7228,1143.3817,3,3,4,334,10,Clients Fidèles,4
+CA-12055,Cathy Armstrong,Central,Home Office,402,5,1679.7240000000002,211.2559,1,2,2,122,5,À Risque,1
+CA-12265,Christina Anderson,Central,Consumer,57,9,2648.2872,279.6183,3,5,3,353,11,Clients Fidèles,2
+CA-12310,Christine Abelman,East,Corporate,14,4,1421.954,246.02179999999998,5,1,2,512,8,Perdus,4
+CA-12775,Cynthia Arntzen,South,Consumer,121,7,3041.566,204.48950000000002,2,3,4,234,9,À Risque,2
+CB-12025,Cassandra Brandow,East,Consumer,48,10,6076.139,150.2089,4,5,5,455,14,Champions,2
+CB-12415,Christy Brittain,East,Consumer,27,8,1949.2,272.3883,5,4,3,543,12,Clients Fidèles,2
+CB-12535,Claudia Bergmann,South,Corporate,198,8,4246.4555,1049.5601,2,4,4,244,10,À Risque,2
+CC-12100,Chad Cunningham,Central,Home Office,458,6,1770.945,208.5912,1,3,3,133,7,À Risque,1
+CC-12145,Charles Crestani,West,Consumer,107,7,2471.65,392.2825,2,3,3,233,8,À Risque,2
+CC-12220,Chris Cortes,Central,Consumer,21,12,3913.418,393.9618,5,5,4,554,14,Champions,2
+CC-12370,Christopher Conant,South,Consumer,44,5,12129.072000000002,2177.0493,4,2,5,425,11,Potentiel Élevé,0
+CC-12430,Chuck Clark,Central,Home Office,1,10,2870.05,424.6583,5,5,4,554,14,Champions,2
+CC-12475,Cindy Chapman,East,Consumer,40,9,1659.438,154.851,4,5,2,452,11,Potentiel Élevé,2
+CC-12550,Clay Cheatham,West,Consumer,28,3,113.832,33.870599999999996,4,1,1,411,6,Perdus,4
+CC-12610,Corey Catlett,East,Corporate,35,7,2540.631,331.434,4,3,3,433,10,Clients Fidèles,2
+CC-12670,Craig Carreira,East,Consumer,30,7,2269.7015,187.8399,4,3,3,433,10,Clients Fidèles,2
+CC-12685,Craig Carroll,South,Consumer,800,4,2854.1150000000002,850.1591,1,1,4,114,6,Perdus,3
+CD-11920,Carlos Daly,West,Consumer,41,5,2033.968,426.661,4,2,3,423,9,Potentiel Élevé,4
+CD-11980,Carol Darley,Central,Consumer,55,3,639.766,-206.7172,3,1,1,311,5,Perdus,4
+CD-12280,Christina DeMoss,West,Consumer,43,2,1205.584,233.0274,4,1,2,412,7,Perdus,4
+CD-12790,Cynthia Delaney,West,Home Office,400,5,1860.732,403.8422,1,2,3,123,6,À Risque,1
+CG-12040,Catherine Glotzbach,East,Home Office,50,6,904.4680000000001,86.5106,4,3,1,431,8,Potentiel Élevé,4
+CG-12520,Claire Gute,South,Consumer,339,3,1148.7800000000002,169.93439999999998,1,1,2,112,4,Perdus,1
+CH-12070,Cathy Hwang,South,Home Office,692,3,1537.236,195.15109999999999,1,1,2,112,4,Perdus,3
+CJ-11875,Carl Jackson,East,Corporate,366,1,16.52,1.652,1,1,1,111,3,Perdus,1
+CJ-12010,Caroline Jumper,West,Consumer,190,8,11164.974,858.7414,2,4,5,245,11,À Risque,0
+CK-12205,Chloris Kastensmidt,East,Consumer,40,13,3154.855,141.2831,4,5,4,454,13,Champions,2
+CK-12325,Christine Kargatis,West,Home Office,121,5,2945.321,261.22090000000003,2,2,4,224,8,À Risque,4
+CK-12595,Clytie Kelty,East,Consumer,44,11,2372.75,497.70980000000003,4,5,3,453,12,Clients Fidèles,2
+CK-12760,Cyma Kinney,East,Corporate,83,9,1582.109,-338.4311,3,5,2,352,10,Potentiel Élevé,2
+CL-11890,Carl Ludwig,East,Consumer,107,4,1262.0140000000001,328.0847,2,1,2,212,5,Perdus,4
+CL-12565,Clay Ludtke,Central,Consumer,285,12,10880.546,1933.7830999999999,1,5,5,155,11,À Risque,0
+CL-12700,Craig Leslie,Central,Home Office,106,5,2353.586,229.00990000000002,2,2,3,223,7,À Risque,4
+CM-11815,Candace McMahon,Central,Corporate,132,6,1673.888,214.463,2,3,2,232,7,À Risque,4
+CM-11935,Carlos Meador,South,Consumer,709,2,565.392,-43.732400000000005,1,1,1,111,3,Perdus,3
+CM-12115,Chad McGuire,East,Consumer,9,4,1661.6100000000001,409.0679,5,1,2,512,8,Perdus,4
+CM-12160,Charles McCrossin,Central,Consumer,27,6,2533.314,-394.3686,5,3,3,533,11,Clients Fidèles,4
+CM-12190,Charlotte Melton,East,Consumer,9,6,1475.144,91.2033,5,3,2,532,10,Potentiel Élevé,4
+CM-12235,Chris McAfee,Central,Consumer,386,5,2305.712,365.0387,1,2,3,123,6,À Risque,1
+CM-12385,Christopher Martinez,South,Consumer,38,4,8954.019999999999,3899.8903999999998,4,1,5,415,10,Potentiel Élevé,0
+CM-12445,Chuck Magee,West,Consumer,437,3,287.99,64.4296,1,1,1,111,3,Perdus,1
+CM-12655,Corinna Mitchell,West,Home Office,28,6,6339.5576,1572.4585,4,3,5,435,12,Clients Fidèles,0
+CM-12715,Craig Molinari,Central,Corporate,1036,4,3984.4524,176.3108,1,1,4,114,6,Perdus,3
+CP-12085,Cathy Prescott,East,Corporate,83,8,5402.254,427.0258,3,4,5,345,12,Clients Fidèles,2
+CP-12340,Christine Phan,East,Corporate,161,8,5888.275,-1850.3029000000001,2,4,5,245,11,À Risque,2
+CR-12580,Clay Rozendal,Central,Home Office,58,4,2148.852,74.40129999999999,3,1,3,313,7,Potentiel Élevé,4
+CR-12625,Corey Roper,East,Home Office,471,3,475.9,144.7594,1,1,1,111,3,Perdus,1
+CR-12730,Craig Reiter,East,Consumer,79,4,1600.55,306.9176,3,1,2,312,6,Perdus,4
+CR-12820,Cyra Reiten,East,Home Office,86,3,1397.8724,83.27029999999999,3,1,2,312,6,Perdus,4
+CS-11845,Cari Sayre,West,Corporate,92,5,1278.954,185.3776,3,2,2,322,7,Potentiel Élevé,4
+CS-11860,Cari Schnelling,South,Consumer,163,6,537.632,105.8275,2,3,1,231,6,À Risque,4
+CS-11950,Carlos Soltero,Central,Consumer,26,11,3036.547,-126.4223,5,5,4,554,14,Champions,2
+CS-12130,Chad Sievert,West,Consumer,490,4,884.64,143.8339,1,1,1,111,3,Perdus,1
+CS-12175,Charles Sheldon,South,Corporate,233,5,844.4580000000001,113.1405,1,2,1,121,4,À Risque,1
+CS-12250,Chris Selesnick,South,Corporate,27,12,2754.216,738.3626,5,5,4,554,14,Champions,2
+CS-12355,Christine Sundaresam,South,Consumer,7,11,3202.1620000000003,831.9432,5,5,4,554,14,Champions,2
+CS-12400,Christopher Schild,Central,Home Office,3,9,3651.8585000000003,-342.80330000000004,5,5,4,554,14,Champions,2
+CS-12460,Chuck Sachs,South,Consumer,28,2,550.644,156.2593,4,1,1,411,6,Perdus,4
+CS-12490,Cindy Schnelling,Central,Corporate,425,4,1077.2285,-302.8761,1,1,2,112,4,Perdus,1
+CS-12505,Cindy Stewart,South,Consumer,59,6,5690.054999999999,-6626.389499999999,3,3,5,335,11,Clients Fidèles,2
+CT-11995,Carol Triggs,Central,Consumer,97,8,3241.898,161.22629999999995,3,4,4,344,11,Clients Fidèles,2
+CV-12295,Christina VanderZanden,West,Consumer,255,5,2830.6279999999997,493.0861,1,2,4,124,7,À Risque,1
+CV-12805,Cynthia Voltz,East,Corporate,6,9,2370.3136,98.99749999999999,5,5,3,553,13,Clients Fidèles,2
+CW-11905,Carl Weiss,Central,Home Office,23,6,1136.592,370.8298,5,3,2,532,10,Potentiel Élevé,4
+CY-12745,Craig Yedwab,West,Corporate,61,8,2900.026,60.64670000000001,3,4,4,344,11,Clients Fidèles,2
+Co-12640,Corey-Lock,East,Consumer,550,5,1300.076,205.62820000000002,1,2,2,122,5,À Risque,1
+DA-13450,Dianna Arnett,Central,Home Office,353,4,156.76,56.7904,1,1,1,111,3,Perdus,1
+DB-12910,Daniel Byrd,South,Home Office,22,8,2171.599,431.3748,5,4,3,543,12,Clients Fidèles,2
+DB-12970,Darren Budd,West,Corporate,242,5,2839.2272,213.00289999999998,1,2,4,124,7,À Risque,1
+DB-13060,Dave Brooks,West,Consumer,17,7,4531.646,473.0272,5,3,5,535,13,Clients Fidèles,2
+DB-13120,David Bremer,West,Corporate,49,7,2973.094,-1421.7692,4,3,4,434,11,Clients Fidèles,2
+DB-13210,Dean Braden,Central,Consumer,10,10,2332.577,169.9679,5,5,3,553,13,Clients Fidèles,2
+DB-13270,Deborah Brumfield,West,Home Office,54,8,4655.897,841.8263999999999,4,4,5,445,13,Champions,2
+DB-13360,Dennis Bolton,East,Home Office,265,5,1081.466,291.0085,1,2,2,122,5,À Risque,1
+DB-13405,Denny Blanton,Central,Consumer,188,4,1711.692,438.9092,2,1,2,212,5,Perdus,4
+DB-13555,Dorothy Badders,South,Corporate,108,7,3908.8028,109.32700000000001,2,3,4,234,9,À Risque,2
+DB-13615,Doug Bickford,West,Consumer,34,7,1989.05,438.80119999999994,4,3,3,433,10,Clients Fidèles,2
+DB-13660,Duane Benoit,East,Consumer,13,7,1155.202,177.67350000000002,5,3,2,532,10,Potentiel Élevé,4
+DC-12850,Dan Campbell,South,Consumer,38,9,3336.168,-1441.6312999999998,4,5,4,454,13,Champions,2
+DC-13285,Debra Catini,Central,Consumer,24,5,1174.618,132.06820000000002,5,2,2,522,9,Potentiel Élevé,4
+DD-13570,Dorothy Dickinson,Central,Consumer,42,6,269.542,36.4344,4,3,1,431,8,Potentiel Élevé,4
+DE-13255,Deanra Eno,East,Home Office,720,5,2550.874,464.47139999999996,1,2,3,123,6,À Risque,3
+DF-13135,David Flashing,West,Consumer,701,3,2390.534,-259.3097,1,1,3,113,5,Perdus,3
+DG-13300,Deirdre Greer,East,Corporate,33,5,3195.818,562.7761,4,2,4,424,10,Potentiel Élevé,4
+DH-13075,Dave Hallsten,South,Corporate,278,6,4932.872,1193.7404,1,3,5,135,9,À Risque,1
+DH-13675,Duane Huffman,East,Home Office,777,4,1043.096,116.667,1,1,2,112,4,Perdus,3
+DJ-13420,Denny Joy,South,Corporate,638,4,2012.52,483.03499999999997,1,1,3,113,5,Perdus,3
+DJ-13510,Don Jones,South,Corporate,49,8,2501.6879999999996,345.2521,4,4,3,443,11,Clients Fidèles,2
+DJ-13630,Doug Jacobs,East,Consumer,13,3,3356.398,731.5644,5,1,4,514,10,Potentiel Élevé,4
+DK-12835,Damala Kotsonis,West,Corporate,22,12,3256.48,881.1228000000001,5,5,4,554,14,Champions,2
+DK-12895,Dana Kaydos,Central,Consumer,46,5,4282.176,937.6496,4,2,4,424,10,Potentiel Élevé,4
+DK-12985,Darren Koutras,South,Consumer,8,5,1687.04,-107.35379999999998,5,2,2,522,9,Potentiel Élevé,4
+DK-13090,Dave Kipp,West,Consumer,43,7,2650.557,536.3935,4,3,3,433,10,Clients Fidèles,2
+DK-13150,David Kendrick,Central,Corporate,11,2,797.832,249.9447,5,1,1,511,7,Perdus,4
+DK-13225,Dean Katz,East,Corporate,11,9,4802.394,209.89940000000004,5,5,5,555,15,Champions,2
+DK-13375,Dennis Kane,East,Consumer,20,8,3318.486,377.0799,5,4,4,544,13,Champions,2
+DL-12865,Dan Lawera,East,Consumer,101,8,1503.112,322.2449,3,4,2,342,9,Potentiel Élevé,2
+DL-12925,Daniel Lacy,West,Consumer,58,6,3272.2,4.213200000000029,3,3,4,334,10,Clients Fidèles,4
+DL-13315,Delfina Latchford,East,Consumer,23,8,1458.258,288.8732,5,4,2,542,11,Potentiel Élevé,2
+DL-13330,Denise Leinenbach,West,Consumer,58,4,585.02,222.6812,3,1,1,311,5,Perdus,4
+DL-13495,Dionis Lloyd,West,Corporate,77,8,3539.322,-52.78799999999997,3,4,4,344,11,Clients Fidèles,2
+DM-12955,Dario Medina,Central,Corporate,115,7,1322.034,108.7583,2,3,2,232,7,À Risque,4
+DM-13015,Darrin Martin,West,Consumer,58,7,6345.103,1677.3931,3,3,5,335,11,Clients Fidèles,0
+DM-13345,Denise Monton,South,Corporate,23,8,4074.4719999999998,1319.0586,5,4,4,544,13,Champions,2
+DM-13525,Don Miller,Central,Corporate,482,3,1376.792,199.7688,1,1,2,112,4,Perdus,1
+DN-13690,Duane Noonan,West,Consumer,218,7,2139.79,540.5405000000001,2,3,3,233,8,À Risque,2
+DO-13435,Denny Ordway,South,Consumer,134,9,1300.0315,-38.90860000000001,2,5,2,252,9,À Risque,2
+DO-13645,Doug O'Connell,West,Consumer,27,7,1267.316,294.0676,5,3,2,532,10,Potentiel Élevé,4
+DP-13000,Darren Powers,Central,Consumer,127,9,1050.636,241.4524,2,5,2,252,9,À Risque,2
+DP-13105,Dave Poirier,West,Corporate,7,8,2215.002,563.1761,5,4,3,543,12,Clients Fidèles,2
+DP-13165,David Philippe,East,Consumer,813,2,1058.616,-40.93759999999999,1,1,2,112,4,Perdus,3
+DP-13390,Dennis Pardue,Central,Home Office,359,9,5480.723999999999,1571.8318,1,5,5,155,11,À Risque,2
+DR-12880,Dan Reichenbach,Central,Corporate,4,9,6528.034000000001,1641.8613,5,5,5,555,15,Champions,0
+DR-12940,Daniel Raglin,East,Home Office,51,8,8350.868,2869.0759999999996,4,4,5,445,13,Champions,0
+DS-13030,Darrin Sayre,West,Home Office,94,4,1762.213,193.3319,3,1,3,313,7,Potentiel Élevé,4
+DS-13180,David Smith,Central,Corporate,24,9,2881.8128,163.6993,5,5,4,554,14,Champions,2
+DV-13045,Darrin Van Huff,West,Corporate,20,5,1119.483,-427.184,5,2,2,522,9,Potentiel Élevé,4
+DV-13465,Dianna Vittorini,West,Consumer,30,6,3341.587,353.2127,4,3,4,434,11,Clients Fidèles,4
+DW-13195,David Wiener,Central,Corporate,70,6,1080.751,-86.87379999999999,3,3,2,332,8,Potentiel Élevé,4
+DW-13480,Dianna Wilson,Central,Home Office,218,5,5271.628,1348.7556,2,2,5,225,9,À Risque,4
+DW-13540,Don Weiss,West,Consumer,99,5,344.08,69.6672,3,2,1,321,6,Potentiel Élevé,4
+DW-13585,Dorothy Wardle,East,Corporate,243,7,1204.854,-266.8966,1,3,2,132,6,À Risque,1
+Dl-13600,Dorris liebe,Central,Corporate,120,5,755.602,175.2388,2,2,1,221,5,À Risque,4
+Dp-13240,Dean percer,West,Home Office,85,11,7198.7609999999995,333.36479999999995,3,5,5,355,13,Clients Fidèles,0
+EA-14035,Erin Ashbrook,South,Corporate,153,13,2846.705,-52.74059999999998,2,5,4,254,11,À Risque,2
+EB-13705,Ed Braxton,East,Corporate,49,9,3644.978,13.621500000000005,4,5,4,454,13,Champions,2
+EB-13750,Edward Becker,West,Corporate,36,10,3236.314,-80.28599999999999,4,5,4,454,13,Champions,2
+EB-13840,Ellis Ballard,West,Corporate,91,5,4358.128,656.1988,3,2,5,325,10,Potentiel Élevé,4
+EB-13870,Emily Burns,West,Consumer,101,10,2767.219,261.5315,3,5,4,354,12,Clients Fidèles,2
+EB-13930,Eric Barreto,West,Consumer,162,5,944.6000000000001,0.6042000000000058,2,2,1,221,5,À Risque,4
+EB-13975,Erica Bern,West,Corporate,1,4,1643.255,162.8781,5,1,2,512,8,Perdus,4
+EB-14110,Eugene Barchas,East,Consumer,114,6,3071.126,184.7656,2,3,4,234,9,À Risque,4
+EB-14170,Evan Bailliet,South,Consumer,83,6,1186.326,282.1701,3,3,2,332,8,Potentiel Élevé,4
+EC-14050,Erin Creighton,East,Consumer,54,5,461.914,96.4256,4,2,1,421,7,Potentiel Élevé,4
+ED-13885,Emily Ducich,West,Home Office,136,8,3484.92,670.4435000000001,2,4,4,244,10,À Risque,2
+EG-13900,Emily Grady,East,Consumer,23,5,1832.02,104.2656,5,2,3,523,10,Potentiel Élevé,4
+EH-13765,Edward Hooks,East,Corporate,136,12,10310.880000000001,1393.5154,2,5,5,255,12,À Risque,0
+EH-13945,Eric Hoffmann,West,Consumer,218,8,684.1709999999999,53.53980000000001,2,4,1,241,7,À Risque,2
+EH-13990,Erica Hackney,South,Consumer,406,6,825.9499999999999,150.3759,1,3,1,131,5,À Risque,1
+EH-14005,Erica Hernandez,West,Home Office,3,7,1219.53,-94.14079999999997,5,3,2,532,10,Potentiel Élevé,4
+EH-14125,Eugene Hildebrand,Central,Home Office,153,10,3082.653,96.27019999999999,2,5,4,254,11,À Risque,2
+EH-14185,Evan Henry,South,Consumer,106,6,923.884,242.1107,2,3,1,231,6,À Risque,4
+EJ-13720,Ed Jacobs,West,Consumer,303,4,2162.174,387.0176,1,1,3,113,5,Perdus,1
+EJ-14155,Eva Jacobs,South,Consumer,58,5,2656.691,451.87550000000005,3,2,3,323,8,Potentiel Élevé,4
+EK-13795,Eileen Kiefer,West,Home Office,45,4,1303.478,97.10659999999999,4,1,2,412,7,Perdus,4
+EL-13735,Ed Ludwig,East,Home Office,78,2,124.28,27.1154,3,1,1,311,5,Perdus,4
+EM-13810,Eleni McCrary,West,Corporate,133,5,2567.0099999999998,-133.8275,2,2,3,223,7,À Risque,4
+EM-13825,Elizabeth Moffitt,Central,Corporate,56,8,2339.598,682.5541999999999,3,4,3,343,10,Clients Fidèles,2
+EM-13960,Eric Murdock,East,Consumer,152,5,933.704,102.29599999999999,2,2,1,221,5,À Risque,4
+EM-14065,Erin Mull,East,Consumer,48,4,228.99,40.15459999999999,4,1,1,411,6,Perdus,4
+EM-14095,Eudokia Martin,West,Corporate,114,4,1041.0420000000001,240.2362,2,1,2,212,5,Perdus,4
+EM-14140,Eugene Moren,West,Home Office,49,6,4588.436000000001,1319.3655,4,3,5,435,12,Clients Fidèles,2
+EM-14200,Evan Minnotte,South,Home Office,159,3,366.822,21.7721,2,1,1,211,4,Perdus,4
+EN-13780,Edward Nazzal,East,Consumer,288,4,2199.366,496.1131,1,1,3,113,5,Perdus,1
+EP-13915,Emily Phan,Central,Consumer,13,17,5478.0608,144.9578,5,5,5,555,15,Champions,2
+ER-13855,Elpida Rittenbach,Central,Corporate,422,3,1245.788,-295.7398,1,1,2,112,4,Perdus,1
+ES-14020,Erica Smith,West,Consumer,41,5,3510.4579999999996,1003.2935,4,2,4,424,10,Potentiel Élevé,4
+ES-14080,Erin Smith,South,Corporate,29,9,4657.924,246.6661,4,5,5,455,14,Champions,2
+FA-14230,Frank Atkinson,West,Corporate,98,7,2984.054,520.5229,3,3,4,334,10,Clients Fidèles,2
+FC-14245,Frank Carlisle,East,Home Office,71,7,3418.742,1217.1662000000001,3,3,4,334,10,Clients Fidèles,2
+FC-14335,Fred Chung,Central,Corporate,185,7,3889.366,714.2926,2,3,4,234,9,À Risque,2
+FG-14260,Frank Gastineau,West,Home Office,35,7,1383.144,394.73969999999997,4,3,2,432,9,Potentiel Élevé,4
+FH-14275,Frank Hawley,Central,Corporate,38,10,4256.272,1073.2676,4,5,4,454,13,Champions,2
+FH-14350,Fred Harton,West,Consumer,213,4,2271.284,706.289,2,1,3,213,6,Perdus,4
+FH-14365,Fred Hopkins,East,Corporate,6,8,6987.196,2050.2826,5,4,5,545,14,Champions,0
+FM-14215,Filia McAdams,East,Corporate,8,10,2456.638,249.6808,5,5,3,553,13,Clients Fidèles,2
+FM-14290,Frank Merwin,West,Home Office,37,9,3736.198,198.10949999999997,4,5,4,454,13,Champions,2
+FM-14380,Fred McMath,West,Consumer,146,9,2523.266,191.4898,2,5,3,253,10,À Risque,2
+FO-14305,Frank Olsen,East,Consumer,39,10,2678.438,215.59689999999998,4,5,3,453,12,Clients Fidèles,2
+FP-14320,Frank Preis,West,Consumer,24,8,4046.746,406.44730000000004,5,4,4,544,13,Champions,2
+FW-14395,Fred Wasserman,South,Corporate,363,3,79.75,23.491300000000003,1,1,1,111,3,Perdus,1
+GA-14515,George Ashbrook,West,Consumer,150,8,3919.7760000000003,840.899,2,4,4,244,10,À Risque,2
+GA-14725,Guy Armstrong,East,Consumer,6,11,1398.382,136.70790000000002,5,5,2,552,12,Potentiel Élevé,2
+GB-14530,George Bell,East,Corporate,63,11,1568.44,7.837100000000003,3,5,2,352,10,Potentiel Élevé,2
+GB-14575,Giulietta Baptist,East,Consumer,14,5,4716.288,1135.8393,5,2,5,525,12,Potentiel Élevé,4
+GD-14590,Giulietta Dortch,East,Corporate,6,4,1888.07,230.93729999999996,5,1,3,513,9,Potentiel Élevé,4
+GG-14650,Greg Guthrie,South,Corporate,44,9,2224.0,12.698500000000008,4,5,3,453,12,Clients Fidèles,2
+GH-14410,Gary Hansen,West,Home Office,76,9,2819.4669999999996,-576.8335,3,5,4,354,12,Clients Fidèles,2
+GH-14425,Gary Hwang,West,Consumer,51,4,4172.8460000000005,1176.4181,4,1,4,414,9,Potentiel Élevé,4
+GH-14485,Gene Hale,Central,Corporate,388,2,1361.2440000000001,-95.4498,1,1,2,112,4,Perdus,1
+GH-14665,Greg Hansen,Central,Consumer,3,2,146.94080000000002,-5.810200000000001,5,1,1,511,7,Perdus,4
+GK-14620,Grace Kelly,West,Corporate,113,9,6497.27,1448.5525,2,5,5,255,12,À Risque,0
+GM-14440,Gary McGarr,West,Consumer,84,7,3582.8199999999997,347.266,3,3,4,334,10,Clients Fidèles,2
+GM-14455,Gary Mitchum,Central,Home Office,17,6,3078.624,793.2814000000001,5,3,4,534,12,Clients Fidèles,4
+GM-14500,Gene McClure,East,Consumer,107,10,1255.682,441.3185,2,5,2,252,9,À Risque,2
+GM-14680,Greg Matthias,West,Consumer,153,6,3163.628,35.48649999999999,2,3,4,234,9,À Risque,4
+GM-14695,Greg Maxwell,West,Corporate,118,3,6049.966,188.7235,2,1,5,215,8,Perdus,4
+GP-14740,Guy Phonely,East,Corporate,766,2,236.53,31.837600000000002,1,1,1,111,3,Perdus,3
+GR-14560,Georgia Rosenberg,West,Corporate,1136,2,1284.38,359.83320000000003,1,1,2,112,4,Perdus,3
+GT-14635,Grant Thornton,South,Corporate,57,3,9351.212,-4108.6589,3,1,5,315,9,Potentiel Élevé,0
+GT-14710,Greg Tran,Central,Consumer,37,11,11820.119999999999,2163.4269,4,5,5,455,14,Champions,0
+GT-14755,Guy Thornton,Central,Consumer,35,4,226.436,-6.139200000000002,4,1,1,411,6,Perdus,4
+GW-14605,Giulietta Weimer,West,Consumer,29,7,2189.019,-268.54229999999995,4,3,3,433,10,Clients Fidèles,2
+GZ-14470,Gary Zandusky,Central,Consumer,8,9,4355.150000000001,1087.7539,5,5,5,555,15,Champions,2
+GZ-14545,George Zrebassa,East,Corporate,158,4,2454.6220000000003,828.661,2,1,3,213,6,Perdus,4
+HA-14905,Helen Abelman,East,Consumer,70,7,2163.3,270.8574,3,3,3,333,9,Clients Fidèles,2
+HA-14920,Helen Andreada,West,Consumer,21,8,2584.158,99.1445,5,4,3,543,12,Clients Fidèles,2
+HD-14785,Harold Dahlen,East,Home Office,770,3,251.36,-135.87599999999998,1,1,1,111,3,Perdus,3
+HE-14800,Harold Engle,Central,Corporate,13,4,883.5319999999999,274.4028,5,1,1,511,7,Perdus,4
+HF-14995,Herbert Flentye,Central,Consumer,22,7,2533.1639999999998,-13.876799999999989,5,4,3,543,12,Clients Fidèles,2
+HG-14845,Harry Greene,South,Consumer,55,5,785.628,147.0032,3,2,1,321,6,Potentiel Élevé,4
+HG-14965,Henry Goldwyn,West,Corporate,24,12,3247.642,-2797.9635000000003,5,5,4,554,14,Champions,2
+HG-15025,Hunter Glantz,Central,Consumer,7,7,3690.284,804.6113,5,4,4,544,13,Champions,2
+HH-15010,Hilary Holden,West,Corporate,73,2,218.668,86.7342,3,1,1,311,5,Perdus,4
+HJ-14875,Heather Jas,South,Home Office,127,5,358.1,98.6548,2,2,1,221,5,À Risque,4
+HK-14890,Heather Kirkland,South,Corporate,152,8,4877.784,956.9451,2,4,5,245,11,À Risque,2
+HL-15040,Hunter Lopez,Central,Consumer,44,6,12873.297999999999,5622.4292000000005,4,3,5,435,12,Clients Fidèles,0
+HM-14860,Harry Marie,East,Corporate,3,10,8236.7648,2437.9836,5,5,5,555,15,Champions,0
+HM-14980,Henry MacAllister,East,Consumer,248,4,736.276,117.2755,1,1,1,111,3,Perdus,1
+HP-14815,Harold Pawlan,Central,Home Office,31,7,1990.314,373.8637,4,4,3,443,11,Clients Fidèles,2
+HR-14770,Hallie Redmond,West,Home Office,14,5,1299.288,185.5794,5,2,2,522,9,Potentiel Élevé,4
+HR-14830,Harold Ryan,West,Corporate,160,7,5248.787,1196.9504,2,4,5,245,11,À Risque,2
+HW-14935,Helen Wasserman,West,Corporate,118,8,9300.254,2164.1611,2,4,5,245,11,À Risque,0
+HZ-14950,Henia Zydlo,East,Consumer,36,5,886.52,-130.3879,4,2,1,421,7,Potentiel Élevé,4
+IG-15085,Ivan Gibson,West,Consumer,72,4,744.574,320.4982,3,1,1,311,5,Perdus,4
+IL-15100,Ivan Liston,West,Consumer,143,7,5040.736,1121.937,2,4,5,245,11,À Risque,2
+IM-15055,Ionia McGrath,West,Consumer,410,3,2872.63,975.7701,1,1,4,114,6,Perdus,1
+IM-15070,Irene Maddox,West,Consumer,391,7,4930.474,514.6527,1,4,5,145,10,À Risque,1
+JA-15970,Joseph Airdo,West,Consumer,93,8,6491.026,-819.4217000000001,3,4,5,345,12,Clients Fidèles,0
+JB-15400,Jennifer Braxton,Central,Corporate,8,10,1791.605,156.05319999999998,5,5,3,553,13,Clients Fidèles,2
+JB-15925,Joni Blumstein,East,Consumer,738,3,900.552,-286.9808,1,1,1,111,3,Perdus,3
+JB-16000,Joy Bell-,Central,Consumer,44,7,644.1188,126.76490000000001,4,4,1,441,9,Potentiel Élevé,4
+JB-16045,Julia Barnett,South,Home Office,8,5,2518.115,201.51850000000002,5,2,3,523,10,Potentiel Élevé,4
+JC-15340,Jasper Cacioppo,West,Consumer,115,4,71.263,-0.35560000000000036,2,1,1,211,4,Perdus,4
+JC-15385,Jenna Caffey,West,Consumer,176,1,1058.108,502.92440000000005,2,1,2,212,5,Perdus,4
+JC-15775,John Castell,Central,Consumer,159,9,2772.055,279.56919999999997,2,5,4,254,11,À Risque,2
+JC-16105,Julie Creighton,South,Corporate,58,5,858.576,201.5952,3,2,1,321,6,Potentiel Élevé,4
+JD-15790,John Dryer,Central,Consumer,118,5,2152.352,-266.55249999999995,2,2,3,223,7,À Risque,4
+JD-15895,Jonathan Doherty,East,Corporate,395,11,7610.8640000000005,1050.2667999999999,1,5,5,155,11,À Risque,0
+JD-16015,Joy Daniels,Central,Consumer,113,6,385.43,26.7605,2,3,1,231,6,À Risque,4
+JD-16060,Julia Dunbar,West,Consumer,301,3,695.442,111.11410000000001,1,1,1,111,3,Perdus,1
+JD-16150,Justin Deggeller,Central,Corporate,42,8,8828.0305,1619.5199,4,4,5,445,13,Champions,0
+JE-15475,Jeremy Ellison,East,Consumer,194,6,1388.682,276.2197,2,3,2,232,7,À Risque,4
+JE-15610,Jim Epp,Central,Corporate,49,7,7754.976,1623.4019,4,4,5,445,13,Champions,0
+JE-15715,Joe Elijah,West,Consumer,47,10,8697.842999999999,1262.2926,4,5,5,455,14,Champions,0
+JE-15745,Joel Eaton,South,Consumer,52,13,6760.8150000000005,221.79670000000002,4,5,5,455,14,Champions,0
+JE-16165,Justin Ellison,Central,Corporate,21,3,2697.248,789.6476,5,1,3,513,9,Potentiel Élevé,4
+JF-15190,Jamie Frazer,West,Consumer,66,7,2279.5860000000002,575.1259,3,4,3,343,10,Clients Fidèles,2
+JF-15295,Jason Fortune-,West,Consumer,226,5,955.124,97.28899999999999,1,2,1,121,4,À Risque,1
+JF-15355,Jay Fein,Central,Consumer,106,6,1911.844,330.199,2,3,3,233,8,À Risque,4
+JF-15415,Jennifer Ferguson,East,Consumer,3,6,2371.448,635.6376,5,3,3,533,11,Clients Fidèles,4
+JF-15490,Jeremy Farry,West,Consumer,122,11,1082.918,-18.06730000000001,2,5,2,252,9,À Risque,2
+JF-15565,Jill Fjeld,Central,Consumer,55,8,4198.332,1073.2088,3,4,4,344,11,Clients Fidèles,2
+JG-15115,Jack Garza,West,Consumer,759,3,2358.676,684.1911,1,1,3,113,5,Perdus,3
+JG-15160,James Galang,West,Consumer,2,11,6366.392,1415.6664,5,5,5,555,15,Champions,2
+JG-15310,Jason Gross,East,Corporate,3,6,2240.58,3.7976000000000063,5,3,3,533,11,Clients Fidèles,4
+JG-15805,John Grady,East,Corporate,224,6,1507.018,206.1019,2,3,2,232,7,À Risque,1
+JH-15430,Jennifer Halladay,South,Consumer,6,4,309.281,-24.077100000000005,5,1,1,511,7,Perdus,4
+JH-15820,John Huston,East,Consumer,175,6,528.91,26.082199999999997,2,3,1,231,6,À Risque,4
+JH-15910,Jonathan Howell,West,Consumer,42,7,959.477,-13.554499999999996,4,4,1,441,9,Potentiel Élevé,4
+JH-15985,Joseph Holt,Central,Consumer,30,6,7954.9980000000005,-644.6982,4,3,5,435,12,Clients Fidèles,0
+JH-16180,Justin Hirsh,West,Consumer,405,4,2256.3940000000002,-96.95300000000002,1,1,3,113,5,Perdus,1
+JJ-15445,Jennifer Jackson,West,Consumer,484,5,709.178,200.5558,1,2,1,121,4,À Risque,1
+JJ-15760,Joel Jenkins,South,Home Office,754,2,195.0,34.449200000000005,1,1,1,111,3,Perdus,3
+JK-15205,Jamie Kunitz,West,Consumer,62,5,4427.142,1219.983,3,2,5,325,10,Potentiel Élevé,4
+JK-15325,Jason Klamczynski,Central,Corporate,288,3,383.812,55.32769999999999,1,1,1,111,3,Perdus,1
+JK-15370,Jay Kimmel,West,Consumer,45,8,2709.632,330.2838,4,4,3,443,11,Clients Fidèles,2
+JK-15625,Jim Karlsson,West,Consumer,62,7,3760.028,750.9485,3,4,4,344,11,Clients Fidèles,2
+JK-15640,Jim Kriz,East,Home Office,181,9,4760.434,1172.5303,2,5,5,255,12,À Risque,2
+JK-15730,Joe Kamberova,South,Consumer,85,10,4867.2,55.0483,3,5,5,355,13,Clients Fidèles,2
+JK-16090,Juliana Krohn,Central,Consumer,29,3,3747.668,586.6625,4,1,4,414,9,Potentiel Élevé,4
+JK-16120,Julie Kriz,Central,Home Office,118,10,2932.484,122.6566,2,5,4,254,11,À Risque,2
+JL-15130,Jack Lebron,Central,Consumer,9,6,1214.956,-207.79559999999998,5,3,2,532,10,Potentiel Élevé,4
+JL-15175,James Lanier,South,Home Office,7,5,1571.523,209.2817,5,2,2,522,9,Potentiel Élevé,4
+JL-15235,Janet Lee,Central,Consumer,120,5,2203.7,54.51740000000002,2,2,3,223,7,À Risque,4
+JL-15505,Jeremy Lonsdale,East,Consumer,50,6,3173.874,591.7163,4,3,4,434,11,Clients Fidèles,4
+JL-15835,John Lee,West,Consumer,22,11,9799.923,228.907,5,5,5,555,15,Champions,0
+JL-15850,John Lucas,East,Consumer,615,6,2725.256,779.9046,1,3,3,133,7,À Risque,3
+JM-15250,Janet Martin,South,Consumer,38,6,3159.1220000000003,19.82350000000004,4,3,4,434,11,Clients Fidèles,4
+JM-15265,Janet Molinari,East,Corporate,38,5,1804.146,502.6143,4,2,3,423,9,Potentiel Élevé,4
+JM-15535,Jessica Myrick,East,Consumer,103,7,1733.443,356.5395,3,4,2,342,9,Potentiel Élevé,2
+JM-15580,Jill Matthias,South,Consumer,1,5,303.948,113.1204,5,2,1,521,8,Potentiel Élevé,4
+JM-15655,Jim Mitchum,East,Corporate,9,5,864.947,117.20400000000001,5,2,1,521,8,Potentiel Élevé,4
+JM-15865,John Murray,East,Consumer,110,7,7625.076000000001,1574.6163999999999,2,4,5,245,11,À Risque,0
+JM-16195,Justin MacKendrick,West,Consumer,58,10,2833.9260000000004,754.1144,3,5,4,354,12,Clients Fidèles,2
+JO-15145,Jack O'Briant,East,Corporate,58,9,3254.949,581.4045,3,5,4,354,12,Clients Fidèles,2
+JO-15280,Jas O'Carroll,West,Consumer,93,6,1934.272,202.13619999999997,3,3,3,333,9,Clients Fidèles,4
+JO-15550,Jesus Ocampo,East,Home Office,216,5,1090.838,167.6709,2,2,2,222,6,À Risque,4
+JP-15460,Jennifer Patt,East,Corporate,38,7,1669.135,429.7465,4,4,2,442,10,Potentiel Élevé,2
+JP-15520,Jeremy Pistek,West,Consumer,9,7,3635.594,757.1802,5,4,4,544,13,Champions,2
+JP-16135,Julie Prescott,South,Home Office,103,9,1707.71,309.7116,3,5,2,352,10,Potentiel Élevé,2
+JR-15670,Jim Radford,East,Consumer,594,2,1156.658,-785.1645,1,1,2,112,4,Perdus,3
+JR-15700,Jocasta Rupert,South,Consumer,69,1,863.88,107.985,3,1,1,311,5,Perdus,4
+JR-16210,Justin Ritter,East,Corporate,34,5,2201.686,452.37300000000005,4,2,3,423,9,Potentiel Élevé,4
+JS-15595,Jill Stevenson,West,Corporate,120,4,1417.654,-175.54899999999998,2,1,2,212,5,Perdus,4
+JS-15685,Jim Sink,West,Corporate,43,4,1131.0639999999999,-54.8692,4,1,2,412,7,Perdus,4
+JS-15880,John Stevenson,West,Consumer,535,5,3868.02,564.9798000000001,1,2,4,124,7,À Risque,1
+JS-15940,Joni Sundaresam,Central,Home Office,464,5,469.169,-327.9336,1,2,1,121,4,À Risque,1
+JS-16030,Joy Smith,Central,Consumer,29,6,2516.494,-311.25749999999994,4,3,3,433,10,Clients Fidèles,4
+JW-15220,Jane Waco,West,Corporate,43,6,7721.714,2173.7093999999997,4,3,5,435,12,Clients Fidèles,0
+JW-15955,Joni Wasserman,West,Consumer,6,7,1244.086,-29.575899999999987,5,4,2,542,11,Potentiel Élevé,4
+JW-16075,Julia West,East,Consumer,462,4,1428.731,154.06369999999998,1,1,2,112,4,Perdus,1
+KA-16525,Kelly Andreada,West,Consumer,37,7,1519.506,234.9194,4,4,2,442,10,Potentiel Élevé,4
+KB-16240,Karen Bern,West,Corporate,5,7,3152.6150000000002,763.9076,5,4,4,544,13,Champions,2
+KB-16315,Karl Braun,Central,Consumer,297,9,1569.464,49.71929999999999,1,5,2,152,8,À Risque,2
+KB-16405,Katrina Bavinger,West,Home Office,118,3,908.821,274.297,2,1,1,211,4,Perdus,4
+KB-16585,Ken Black,Central,Corporate,231,12,2744.742,579.3551,1,5,3,153,9,À Risque,2
+KB-16600,Ken Brennan,Central,Corporate,2,7,983.922,293.55240000000003,5,4,2,542,11,Potentiel Élevé,4
+KC-16255,Karen Carlisle,West,Corporate,408,6,2120.954,846.1217,1,3,3,133,7,À Risque,1
+KC-16540,Kelly Collister,West,Consumer,98,4,3908.262,709.4219,3,1,4,314,8,Potentiel Élevé,4
+KC-16675,Kimberly Carter,West,Corporate,58,4,1146.05,156.7797,3,1,2,312,6,Perdus,4
+KD-16270,Karen Daniels,South,Consumer,485,5,8282.358,1107.6952000000003,1,2,5,125,8,À Risque,0
+KD-16345,Katherine Ducich,West,Consumer,42,6,1888.964,328.5942,4,3,3,433,10,Clients Fidèles,4
+KD-16495,Keith Dawkins,East,Corporate,113,12,8181.256,3038.6254,2,5,5,255,12,À Risque,0
+KD-16615,Ken Dana,West,Corporate,290,5,2243.5099999999998,539.7219,1,2,3,123,6,À Risque,1
+KE-16420,Katrina Edelman,South,Corporate,27,8,1686.7312,397.87989999999996,5,4,2,542,11,Potentiel Élevé,2
+KF-16285,Karen Ferguson,West,Home Office,98,7,10604.266,1660.1386,3,4,5,345,12,Clients Fidèles,0
+KH-16330,Katharine Harms,South,Corporate,41,8,3312.864,454.7871,4,4,4,444,12,Champions,2
+KH-16360,Katherine Hughes,East,Consumer,2,6,3100.612,528.2051,5,3,4,534,12,Clients Fidèles,4
+KH-16510,Keith Herrera,West,Consumer,23,7,5952.859,656.1162,5,4,5,545,14,Champions,2
+KH-16630,Ken Heidel,Central,Corporate,59,9,3918.9660000000003,727.3786,3,5,4,354,12,Clients Fidèles,2
+KH-16690,Kristen Hastings,West,Corporate,3,7,5990.799,1227.5091,5,4,5,545,14,Champions,2
+KL-16555,Kelly Lampkin,West,Corporate,17,8,5016.488,-182.78130000000002,5,4,5,545,14,Champions,2
+KL-16645,Ken Lonsdale,Central,Consumer,48,12,14175.229000000001,806.855,4,5,5,455,14,Champions,0
+KM-16225,Kalyca Meade,East,Corporate,15,6,2260.958,635.1057000000001,5,3,3,533,11,Clients Fidèles,4
+KM-16375,Katherine Murray,South,Home Office,57,8,5620.186,973.7901999999999,3,4,5,345,12,Clients Fidèles,2
+KM-16660,Khloe Miller,South,Consumer,16,5,453.538,91.1391,5,2,1,521,8,Potentiel Élevé,4
+KM-16720,Kunst Miller,West,Consumer,29,8,4909.472,745.7685,4,4,5,445,13,Champions,2
+KN-16390,Katherine Nockton,West,Corporate,20,9,2617.272,-151.1518,5,5,3,553,13,Clients Fidèles,2
+KN-16450,Kean Nguyen,South,Corporate,53,5,2171.962,114.3083,4,2,3,423,9,Potentiel Élevé,4
+KN-16705,Kristina Nunn,West,Home Office,99,8,2280.58,329.76250000000005,3,4,3,343,10,Clients Fidèles,2
+KS-16300,Karen Seio,West,Corporate,296,3,88.472,0.11099999999999888,1,1,1,111,3,Perdus,1
+KT-16465,Kean Takahito,West,Consumer,392,7,3057.1,254.0032,1,4,4,144,9,À Risque,1
+KT-16480,Kean Thornton,East,Consumer,101,10,4642.088400000001,194.0671,3,5,5,355,13,Clients Fidèles,2
+KW-16435,Katrina Willman,East,Consumer,97,5,4416.5199999999995,1756.135,3,2,5,325,10,Potentiel Élevé,4
+KW-16570,Kelly Williams,South,Consumer,772,4,449.096,107.92699999999999,1,1,1,111,3,Perdus,3
+LA-16780,Laura Armstrong,Central,Corporate,155,11,8673.222,2059.1199,2,5,5,255,12,À Risque,0
+LB-16735,Larry Blacks,Central,Consumer,49,3,50.188,18.6507,4,1,1,411,6,Perdus,4
+LB-16795,Laurel Beltran,Central,Home Office,153,8,4985.676,-52.19099999999998,2,4,5,245,11,À Risque,2
+LC-16870,Lena Cacioppo,West,Consumer,28,8,2580.7039999999997,-188.25110000000004,4,4,3,443,11,Clients Fidèles,2
+LC-16885,Lena Creighton,West,Consumer,17,12,7663.126,1288.3469,5,5,5,555,15,Champions,0
+LC-16930,Linda Cazamias,Central,Corporate,42,8,4492.946,288.26599999999996,4,4,5,445,13,Champions,2
+LC-16960,Lindsay Castell,South,Home Office,437,4,3246.626,299.48019999999997,1,1,4,114,6,Perdus,1
+LC-17050,Liz Carlisle,West,Consumer,55,5,2095.064,86.77799999999999,3,2,3,323,8,Potentiel Élevé,4
+LC-17140,Logan Currie,Central,Consumer,14,9,2633.582,231.12520000000004,5,5,3,553,13,Clients Fidèles,2
+LD-16855,Lela Donovan,Central,Corporate,553,1,5.304,0.4641,1,1,1,111,3,Perdus,3
+LD-17005,Lisa DeCherney,West,Consumer,415,4,1961.934,557.1714,1,1,3,113,5,Perdus,1
+LE-16810,Laurel Elliston,West,Consumer,22,6,1469.45,161.76489999999998,5,3,2,532,10,Potentiel Élevé,4
+LF-17185,Luke Foster,South,Consumer,23,7,3930.5089999999996,-3583.977,5,4,4,544,13,Champions,2
+LH-16750,Larry Hughes,South,Consumer,152,3,287.426,12.627699999999999,2,1,1,211,4,Perdus,4
+LH-16900,Lena Hernandez,East,Consumer,22,9,2295.332,526.0727,5,5,3,553,13,Clients Fidèles,2
+LH-17020,Lisa Hazard,East,Consumer,240,4,318.239,-242.73989999999998,1,1,1,111,3,Perdus,1
+LH-17155,Logan Haushalter,West,Consumer,386,9,1739.689,316.5202,1,5,3,153,9,À Risque,1
+LL-16840,Lauren Leatherbury,East,Consumer,250,6,2741.2039999999997,560.0078,1,3,3,133,7,À Risque,1
+LM-17065,Liz MacKendrick,East,Consumer,392,5,1346.774,-44.87799999999999,1,2,2,122,5,À Risque,1
+LO-17170,Lori Olson,West,Corporate,3,5,644.35,150.1712,5,2,1,521,8,Potentiel Élevé,4
+LP-17080,Liz Pelletier,West,Consumer,41,4,756.606,110.7813,4,1,1,411,6,Perdus,4
+LP-17095,Liz Preis,South,Consumer,10,7,3653.399,338.44539999999995,5,4,4,544,13,Champions,2
+LR-16915,Lena Radford,West,Consumer,27,6,5142.892,535.4764,5,3,5,535,13,Clients Fidèles,2
+LR-17035,Lisa Ryan,East,Corporate,133,5,1879.306,-382.8079,2,2,3,223,7,À Risque,4
+LS-16945,Linda Southworth,East,Corporate,179,6,2845.27,-318.77369999999996,2,3,4,234,9,À Risque,4
+LS-16975,Lindsay Shagiari,West,Home Office,21,9,2988.674,262.63669999999996,5,5,4,554,14,Champions,2
+LS-17200,Luke Schmidt,Central,Corporate,97,6,1010.2560000000001,244.197,3,3,2,332,8,Potentiel Élevé,4
+LS-17230,Lycoris Saunders,East,Consumer,778,3,368.88000000000005,39.1952,1,1,1,111,3,Perdus,3
+LS-17245,Lynn Smith,Central,Consumer,35,6,1008.1360000000001,348.3584,4,3,2,432,9,Potentiel Élevé,4
+LT-16765,Larry Tron,West,Consumer,27,3,329.876,59.036,5,1,1,511,7,Perdus,4
+LT-17110,Liz Thompson,West,Consumer,35,8,2936.252,320.973,4,4,4,444,12,Champions,2
+LW-16825,Laurel Workman,South,Corporate,89,5,2238.061,32.5767,3,2,3,323,8,Potentiel Élevé,4
+LW-16990,Lindsay Williams,West,Corporate,34,6,3230.308,662.8339000000001,4,3,4,434,11,Clients Fidèles,4
+LW-17125,Liz Willingham,East,Consumer,206,3,1259.04,192.6312,2,1,2,212,5,Perdus,4
+LW-17215,Luke Weiss,West,Consumer,22,7,5420.514,837.2411,5,4,5,545,14,Champions,2
+MA-17560,Matt Abelman,Central,Home Office,65,11,4299.161,1240.2266,3,5,5,355,13,Clients Fidèles,2
+MA-17995,Michelle Arnett,East,Home Office,187,6,2453.284,280.7822,2,3,3,233,8,À Risque,4
+MB-17305,Maria Bertelson,East,Consumer,49,10,1548.702,212.425,4,5,2,452,11,Potentiel Élevé,2
+MB-18085,Mick Brown,East,Consumer,45,7,1428.231,117.8057,4,4,2,442,10,Potentiel Élevé,4
+MC-17275,Marc Crier,South,Consumer,77,8,2725.982,461.0014,3,4,3,343,10,Clients Fidèles,2
+MC-17425,Mark Cousins,South,Corporate,400,5,4432.138,1802.3903,1,2,5,125,8,À Risque,1
+MC-17575,Matt Collins,East,Consumer,28,8,1303.893,210.7493,4,4,2,442,10,Potentiel Élevé,2
+MC-17590,Matt Collister,East,Corporate,52,6,2426.067,288.98409999999996,4,3,3,433,10,Clients Fidèles,4
+MC-17605,Matt Connell,Central,Corporate,113,8,2258.192,195.4486,2,4,3,243,9,À Risque,2
+MC-17635,Matthew Clasen,Central,Corporate,190,4,795.154,-247.94350000000003,2,1,1,211,4,Perdus,4
+MC-17845,Michael Chen,South,Consumer,2,7,3805.714,698.4174,5,4,4,544,13,Champions,2
+MC-18100,Mick Crebagga,Central,Consumer,42,10,2218.98,-64.1668,4,5,3,453,12,Clients Fidèles,2
+MC-18130,Mike Caudle,South,Corporate,370,5,1581.9979999999998,121.7565,1,2,2,122,5,À Risque,1
+MD-17350,Maribeth Dona,South,Consumer,118,7,3766.382,-241.94999999999996,2,4,4,244,10,À Risque,2
+MD-17860,Michael Dominguez,Central,Corporate,37,5,1204.91,-4.040300000000002,4,2,2,422,8,Potentiel Élevé,4
+ME-17320,Maria Etezadi,South,Home Office,43,10,10663.728000000001,1859.4695,4,5,5,455,14,Champions,0
+ME-17725,Max Engle,West,Consumer,29,8,1908.4532,77.81280000000001,4,4,3,443,11,Clients Fidèles,2
+ME-18010,Michelle Ellison,West,Corporate,93,4,1256.944,107.3604,3,2,2,322,7,Potentiel Élevé,4
+MF-17665,Maureen Fritzler,East,Corporate,422,5,937.039,-341.52650000000006,1,2,1,121,4,À Risque,1
+MF-18250,Monica Federle,West,Corporate,8,5,1758.3,456.86080000000004,5,2,3,523,10,Potentiel Élevé,4
+MG-17650,Matthew Grinstein,East,Home Office,30,7,3785.276,341.898,4,4,4,444,12,Champions,2
+MG-17680,Maureen Gastineau,East,Home Office,93,4,2350.188,25.888599999999972,3,2,3,323,8,Potentiel Élevé,4
+MG-17695,Maureen Gnade,East,Consumer,556,3,1342.282,-398.79319999999996,1,1,2,112,4,Perdus,3
+MG-17875,Michael Grace,East,Home Office,117,5,1242.8329999999999,-470.7684,2,2,2,222,6,À Risque,4
+MG-17890,Michael Granlund,East,Home Office,100,9,776.384,171.7372,3,5,1,351,9,Potentiel Élevé,2
+MG-18145,Mike Gockenbach,East,Consumer,85,4,3061.543,-93.603,3,2,4,324,9,Potentiel Élevé,4
+MG-18205,Mitch Gastineau,South,Corporate,265,1,16.739,-1.2453,1,1,1,111,3,Perdus,1
+MH-17290,Marc Harrigan,West,Home Office,120,6,2394.025,28.761200000000038,2,3,3,233,8,À Risque,4
+MH-17440,Mark Haberlin,East,Corporate,377,4,400.016,61.428599999999996,1,2,1,121,4,À Risque,1
+MH-17455,Mark Hamilton,South,Consumer,86,8,2456.1820000000002,484.77330000000006,3,4,3,343,10,Clients Fidèles,2
+MH-17620,Matt Hagelstein,West,Corporate,156,4,1252.8,122.3612,2,2,2,222,6,À Risque,4
+MH-17785,Maya Herman,East,Corporate,99,7,2203.7780000000002,238.5614,3,4,3,343,10,Clients Fidèles,2
+MH-18025,Michelle Huthwaite,West,Consumer,50,5,2984.948,476.9032,4,2,4,424,10,Potentiel Élevé,4
+MH-18115,Mick Hernandez,East,Home Office,6,9,5503.093,170.9746,5,5,5,555,15,Champions,2
+MJ-17740,Max Jones,West,Consumer,23,7,6320.746,1054.5529000000001,5,4,5,545,14,Champions,0
+MK-17905,Michael Kennedy,East,Corporate,29,8,2302.368,-405.3559,4,4,3,443,11,Clients Fidèles,2
+MK-18160,Mike Kennedy,South,Consumer,241,4,1031.602,227.83380000000002,1,2,2,122,5,À Risque,1
+ML-17395,Marina Lichtenstein,West,Corporate,70,9,2722.843,684.9162,3,5,3,353,11,Clients Fidèles,2
+ML-17410,Maris LaWare,East,Consumer,55,6,2921.5,-76.17550000000003,3,3,4,334,10,Clients Fidèles,4
+ML-17755,Max Ludwig,South,Home Office,30,7,2071.9139999999998,409.51120000000003,4,4,3,443,11,Clients Fidèles,2
+ML-18040,Michelle Lonsdale,West,Corporate,80,3,742.082,138.71620000000001,3,1,1,311,5,Perdus,4
+ML-18265,Muhammed Lee,West,Consumer,101,2,162.232,42.6648,3,1,1,311,5,Perdus,4
+MM-17260,Magdelene Morse,East,Consumer,169,4,1314.023,178.402,2,2,2,222,6,À Risque,4
+MM-17920,Michael Moore,West,Consumer,8,11,3794.0800000000004,82.12499999999997,5,5,4,554,14,Champions,2
+MM-18055,Michelle Moray,West,Consumer,62,8,2749.881,-520.3443,3,4,3,343,10,Clients Fidèles,2
+MM-18280,Muhammed MacIntyre,Central,Corporate,86,9,775.414,58.8916,3,5,1,351,9,Potentiel Élevé,2
+MN-17935,Michael Nguyen,Central,Consumer,35,6,2477.946,290.8227,4,3,3,433,10,Clients Fidèles,4
+MO-17500,Mary O'Rourke,East,Consumer,73,4,922.487,59.357699999999994,3,2,1,321,6,Potentiel Élevé,4
+MO-17800,Meg O'Connel,East,Home Office,105,8,1687.0269999999998,169.34369999999998,2,4,2,242,8,À Risque,2
+MO-17950,Michael Oakman,Central,Consumer,181,2,154.288,-82.0074,2,1,1,211,4,Perdus,4
+MP-17470,Mark Packer,East,Home Office,720,7,3206.132,600.2873,1,4,4,144,9,À Risque,3
+MP-17965,Michael Paige,East,Corporate,73,9,3983.6420000000003,638.1563,3,5,4,354,12,Clients Fidèles,2
+MP-18175,Mike Pelletier,West,Home Office,17,9,5087.92,226.4529,5,5,5,555,15,Champions,2
+MR-17545,Mathew Reese,East,Home Office,126,4,639.178,162.9363,2,2,1,221,5,À Risque,4
+MS-17365,Maribeth Schnelling,Central,Consumer,274,10,7443.6900000000005,844.9354999999998,1,5,5,155,11,À Risque,0
+MS-17530,MaryBeth Skach,West,Consumer,435,4,475.65599999999995,84.0268,1,2,1,121,4,À Risque,1
+MS-17710,Maurice Satty,West,Consumer,414,6,1613.402,247.4348,1,3,2,132,6,À Risque,1
+MS-17770,Maxwell Schwartz,East,Consumer,122,9,3144.678,280.85839999999996,2,5,4,254,11,À Risque,2
+MS-17830,Melanie Seite,Central,Consumer,453,4,370.348,19.431199999999997,1,2,1,121,4,À Risque,1
+MS-17980,Michael Stewart,Central,Corporate,27,6,855.116,55.226,5,3,1,531,9,Potentiel Élevé,4
+MT-17815,Meg Tillman,West,Consumer,50,6,2890.139,509.0068,4,3,4,434,11,Clients Fidèles,4
+MT-18070,Michelle Tran,West,Home Office,204,4,1319.4498,-23.676300000000005,2,2,2,222,6,À Risque,4
+MV-17485,Mark Van Huff,South,Consumer,28,9,1560.05,189.0258,4,5,2,452,11,Potentiel Élevé,2
+MV-18190,Mike Vittorini,East,Consumer,20,7,1734.574,273.8582,5,4,2,542,11,Potentiel Élevé,2
+MW-18220,Mitch Webber,East,Consumer,18,7,5341.900000000001,1238.422,5,4,5,545,14,Champions,2
+MW-18235,Mitch Willingham,South,Corporate,45,2,5253.876,1665.516,4,1,5,415,10,Potentiel Élevé,4
+MY-17380,Maribeth Yedwab,West,Corporate,30,7,2254.285,319.1211,4,4,3,443,11,Clients Fidèles,2
+MY-18295,Muhammed Yedwab,Central,Corporate,72,11,4152.696,-371.7111,3,5,4,354,12,Clients Fidèles,2
+MZ-17335,Maria Zettner,West,Home Office,31,4,593.606,85.01910000000001,4,2,1,421,7,Potentiel Élevé,4
+MZ-17515,Mary Zewe,West,Corporate,283,6,2564.906,787.7503,1,3,3,133,7,À Risque,1
+NB-18580,Nicole Brennan,East,Corporate,1166,2,273.87199999999996,24.788800000000002,1,1,1,111,3,Perdus,3
+NB-18655,Nona Balk,Central,Corporate,20,9,1972.599,117.6429,5,5,3,553,13,Clients Fidèles,2
+NC-18340,Nat Carroll,Central,Consumer,225,5,2461.404,580.3075,2,2,3,223,7,À Risque,1
+NC-18415,Nathan Cano,South,Consumer,42,6,2218.9900000000002,-2204.8072,4,3,3,433,10,Clients Fidèles,4
+NC-18535,Nick Crebassa,Central,Corporate,7,7,8241.739,1314.758,5,4,5,545,14,Champions,0
+NC-18625,Noah Childs,West,Corporate,205,5,1821.742,-359.02099999999996,2,2,3,223,7,À Risque,4
+ND-18370,Natalie DeCherney,South,Consumer,28,9,4326.139,353.64549999999997,4,5,5,455,14,Champions,2
+ND-18460,Neil Ducich,South,Corporate,184,6,2893.455,443.33680000000004,2,3,4,234,9,À Risque,4
+NF-18385,Natalie Fritzler,South,Consumer,80,7,8322.826,-1695.9714,3,4,5,345,12,Clients Fidèles,0
+NF-18475,Neil Französisch,Central,Home Office,526,4,377.16200000000003,85.92779999999999,1,2,1,121,4,À Risque,1
+NF-18595,Nicole Fjeld,East,Home Office,115,7,2031.472,388.2131,2,4,3,243,9,À Risque,2
+NG-18355,Nat Gilpin,East,Corporate,49,5,1869.58,313.63349999999997,4,2,3,423,9,Potentiel Élevé,4
+NG-18430,Nathan Gelder,East,Consumer,49,5,1395.9379999999999,217.0893,4,2,2,422,8,Potentiel Élevé,4
+NH-18610,Nicole Hansen,Central,Corporate,190,7,2673.29,760.1666,2,4,3,243,9,À Risque,2
+NK-18490,Neil Knudson,West,Home Office,71,7,572.048,121.2177,3,4,1,341,8,Potentiel Élevé,4
+NL-18310,Nancy Lomonaco,West,Home Office,59,4,1418.0900000000001,343.6381,3,2,2,322,7,Potentiel Élevé,4
+NM-18445,Nathan Mautz,East,Home Office,161,7,6459.344,2751.6848999999997,2,4,5,245,11,À Risque,0
+NM-18520,Neoma Murray,West,Consumer,245,10,2161.979,788.9525000000001,1,5,3,153,9,À Risque,2
+NP-18325,Naresj Patel,South,Consumer,26,6,5529.62,1208.8890000000001,5,3,5,535,13,Clients Fidèles,2
+NP-18670,Nora Paige,Central,Consumer,59,5,3908.402,514.6002,3,2,4,324,9,Potentiel Élevé,4
+NP-18685,Nora Pelletier,East,Home Office,407,6,1228.698,514.5017,1,3,2,132,6,À Risque,1
+NP-18700,Nora Preis,West,Consumer,139,7,7903.1825,631.2282,2,4,5,245,11,À Risque,0
+NR-18550,Nick Radford,Central,Consumer,211,5,2367.277,-25.148799999999966,2,2,3,223,7,À Risque,4
+NS-18505,Neola Schneider,Central,Consumer,7,4,2575.863,-12.303999999999997,5,2,3,523,10,Potentiel Élevé,4
+NS-18640,Noel Staavos,Central,Corporate,175,13,2964.823,-234.7714,2,5,4,254,11,À Risque,2
+NW-18400,Natalie Webber,West,Consumer,173,7,7234.014,1023.123,2,4,5,245,11,À Risque,0
+NZ-18565,Nick Zandusky,East,Home Office,86,9,2488.31,402.4236,3,5,3,353,11,Clients Fidèles,2
+ON-18715,Odella Nelson,Central,Corporate,411,9,1567.52,-5.88900000000001,1,5,2,152,8,À Risque,1
+OT-18730,Olvera Toch,West,Consumer,66,5,3818.624,-925.1203,3,2,4,324,9,Potentiel Élevé,4
+PA-19060,Pete Armstrong,Central,Home Office,104,6,729.408,225.8588,3,3,1,331,7,Potentiel Élevé,4
+PB-18805,Patrick Bzostek,West,Home Office,26,3,740.356,229.2257,5,1,1,511,7,Perdus,4
+PB-19105,Peter Bühler,Central,Consumer,58,4,688.324,218.15970000000002,3,2,1,321,6,Potentiel Élevé,4
+PB-19150,Philip Brown,West,Consumer,98,8,1456.95,280.6606,3,4,2,342,9,Potentiel Élevé,2
+PB-19210,Phillip Breyer,Central,Corporate,689,2,132.738,21.897000000000002,1,1,1,111,3,Perdus,3
+PC-18745,Pamela Coakley,West,Corporate,3,4,1832.064,272.685,5,2,3,523,10,Potentiel Élevé,4
+PC-19000,Pauline Chand,West,Home Office,883,2,1061.488,-184.3364,1,1,2,112,4,Perdus,3
+PF-19120,Peter Fuller,West,Consumer,836,4,9062.864,-614.2943000000001,1,2,5,125,8,À Risque,3
+PF-19165,Philip Fox,Central,Consumer,197,6,2770.0,196.87389999999996,2,3,4,234,9,À Risque,4
+PF-19225,Phillip Flathmann,West,Consumer,115,5,2206.1279999999997,591.3118000000001,2,2,3,223,7,À Risque,4
+PG-18820,Patrick Gardner,West,Consumer,37,13,3086.907,137.46130000000002,4,5,4,454,13,Champions,2
+PG-18895,Paul Gonzalez,Central,Consumer,58,9,1987.164,334.5163,3,5,3,353,11,Clients Fidèles,2
+PH-18790,Patricia Hirasaki,South,Home Office,71,1,729.648,47.8878,3,1,1,311,5,Perdus,4
+PJ-18835,Patrick Jones,South,Corporate,40,8,1220.09,442.1355,4,4,2,442,10,Potentiel Élevé,2
+PJ-19015,Pauline Johnson,West,Consumer,135,7,1824.2340000000002,682.9979000000001,2,4,3,243,9,À Risque,2
+PK-18910,Paul Knutson,East,Home Office,484,2,1441.152,-798.705,1,1,2,112,4,Perdus,1
+PK-19075,Pete Kriz,Central,Consumer,10,12,8646.934,2038.2676000000001,5,5,5,555,15,Champions,0
+PL-18925,Paul Lucas,Central,Home Office,16,5,239.481,-0.7527000000000026,5,2,1,521,8,Potentiel Élevé,4
+PM-18940,Paul MacIntyre,Central,Consumer,387,3,1405.402,157.8768,1,1,2,112,4,Perdus,1
+PM-19135,Peter McVee,Central,Home Office,52,4,4115.662,526.7537,4,2,4,424,10,Potentiel Élevé,4
+PN-18775,Parhena Norris,East,Home Office,31,8,1467.152,192.0396,4,4,2,442,10,Potentiel Élevé,2
+PO-18850,Patrick O'Brill,East,Consumer,5,11,7473.8282,38.47569999999996,5,5,5,555,15,Champions,0
+PO-18865,Patrick O'Donnell,Central,Consumer,1,7,2493.214,437.8533,5,4,3,543,12,Clients Fidèles,2
+PO-19180,Philisse Overcash,Central,Home Office,161,9,4893.043,1155.4331,2,5,5,255,12,À Risque,2
+PO-19195,Phillina Ober,Central,Home Office,87,5,1056.858,-49.70089999999999,3,2,2,322,7,Potentiel Élevé,4
+PP-18955,Paul Prost,South,Home Office,98,10,7252.608,1495.0854,3,5,5,355,13,Clients Fidèles,0
+PR-18880,Patrick Ryan,West,Consumer,37,5,1840.178,247.6226,4,2,3,423,9,Potentiel Élevé,4
+PS-18760,Pamela Stobb,West,Consumer,108,6,2181.479,-134.441,2,3,3,233,8,À Risque,4
+PS-18970,Paul Stevenson,Central,Home Office,70,8,1278.639,198.5099,3,4,2,342,9,Potentiel Élevé,2
+PS-19045,Penelope Sewall,South,Home Office,237,7,6843.634,1742.7296999999999,1,4,5,145,10,À Risque,0
+PT-19090,Pete Takahito,Central,Consumer,72,4,160.572,-20.0508,3,2,1,321,6,Potentiel Élevé,4
+PV-18985,Paul Van Hugh,West,Home Office,90,5,2876.046,434.52840000000003,3,2,4,324,9,Potentiel Élevé,4
+PW-19030,Pauline Webber,South,Corporate,47,10,3454.916,803.8169,4,5,4,454,13,Champions,2
+PW-19240,Pierre Wener,West,Consumer,465,7,3922.4150000000004,1290.354,1,4,4,144,9,À Risque,1
+QJ-19255,Quincy Jones,Central,Corporate,26,9,6108.338,1203.6768,5,5,5,555,15,Champions,2
+RA-19285,Ralph Arnett,East,Consumer,6,9,2617.906,546.0882,5,5,3,553,13,Clients Fidèles,2
+RA-19885,Ruben Ausman,West,Corporate,44,7,3832.314,1292.8656,4,4,4,444,12,Champions,2
+RA-19915,Russell Applegate,Central,Consumer,13,9,4793.543,304.8673,5,5,5,555,15,Champions,2
+RA-19945,Ryan Akin,West,Consumer,62,5,1686.9225,-445.695,3,2,2,322,7,Potentiel Élevé,4
+RB-19330,Randy Bradley,East,Consumer,69,2,1008.1959999999999,-164.40619999999998,3,1,2,312,6,Perdus,4
+RB-19360,Raymond Buch,East,Consumer,97,6,15117.339,6976.0959,3,3,5,335,11,Clients Fidèles,0
+RB-19435,Richard Bierner,Central,Consumer,20,8,2663.0860000000002,477.23990000000003,5,4,3,543,12,Clients Fidèles,2
+RB-19465,Rick Bensley,Central,Home Office,10,12,4715.466,640.5466,5,5,5,555,15,Champions,2
+RB-19570,Rob Beeghly,Central,Consumer,26,5,528.546,76.8879,5,2,1,521,8,Potentiel Élevé,4
+RB-19645,Robert Barroso,West,Corporate,649,5,221.084,72.679,1,2,1,121,4,À Risque,3
+RB-19705,Roger Barcio,West,Home Office,55,4,2067.45,243.07549999999998,3,2,3,323,8,Potentiel Élevé,4
+RB-19795,Ross Baird,South,Home Office,33,8,5633.316000000001,-461.73319999999995,4,4,5,445,13,Champions,2
+RC-19825,Roy Collins,Central,Consumer,370,6,966.409,63.991400000000006,1,3,2,132,6,À Risque,1
+RC-19960,Ryan Crowe,East,Consumer,111,6,885.752,10.563300000000002,2,3,1,231,6,À Risque,4
+RD-19480,Rick Duston,West,Consumer,73,8,4272.93,480.594,3,4,4,344,11,Clients Fidèles,2
+RD-19585,Rob Dowd,South,Consumer,181,10,2912.8940000000002,734.5158,2,5,4,254,11,À Risque,2
+RD-19660,Robert Dilbeck,Central,Home Office,115,5,2786.632,835.772,2,2,4,224,8,À Risque,4
+RD-19720,Roger Demir,South,Consumer,22,10,1419.737,207.3304,5,5,2,552,12,Potentiel Élevé,2
+RD-19810,Ross DeVincentis,West,Home Office,15,8,1137.616,318.4625,5,4,2,542,11,Potentiel Élevé,2
+RD-19900,Ruben Dartt,West,Consumer,115,9,3133.924,455.5292,2,5,4,254,11,À Risque,2
+RD-19930,Russell D'Ascenzo,Central,Consumer,43,4,970.9420000000001,35.05740000000001,4,2,2,422,8,Potentiel Élevé,4
+RE-19405,Ricardo Emerson,East,Consumer,1098,1,48.36,6.045,1,1,1,111,3,Perdus,3
+RE-19450,Richard Eichhorn,Central,Consumer,303,5,876.696,209.2294,1,2,1,121,4,À Risque,1
+RF-19345,Randy Ferguson,East,Corporate,391,8,3309.15,633.7072000000001,1,4,4,144,9,À Risque,1
+RF-19735,Roland Fjeld,Central,Consumer,90,7,2341.2960000000003,711.6168,3,4,3,343,10,Clients Fidèles,2
+RF-19840,Roy Französisch,East,Consumer,7,8,945.222,280.0261,5,4,1,541,10,Potentiel Élevé,2
+RH-19495,Rick Hansen,Central,Consumer,33,5,3621.3759999999997,563.7877,4,2,4,424,10,Potentiel Élevé,4
+RH-19510,Rick Huthwaite,East,Home Office,468,6,6979.18,1289.4535,1,3,5,135,9,À Risque,1
+RH-19555,Ritsa Hightower,South,Consumer,520,2,740.382,0.30570000000000164,1,1,1,111,3,Perdus,3
+RH-19600,Rob Haberlin,South,Consumer,535,3,2085.7400000000002,172.6261,1,1,3,113,5,Perdus,3
+RK-19300,Ralph Kennedy,East,Consumer,120,3,1460.192,269.688,2,1,2,212,5,Perdus,4
+RL-19615,Rob Lucas,South,Consumer,122,8,6234.91,488.14840000000004,2,4,5,245,11,À Risque,0
+RM-19375,Raymond Messe,Central,Consumer,346,6,1453.474,392.1499,1,3,2,132,6,À Risque,1
+RM-19675,Robert Marley,South,Home Office,7,5,5979.0960000000005,1902.5438000000001,5,2,5,525,12,Potentiel Élevé,4
+RM-19750,Roland Murray,East,Consumer,300,1,98.35,28.6879,1,1,1,111,3,Perdus,1
+RO-19780,Rose O'Brian,South,Consumer,36,7,3815.478,-1262.5716000000002,4,4,4,444,12,Champions,2
+RP-19270,Rachel Payne,West,Corporate,497,4,954.6452,59.538399999999996,1,2,1,121,4,À Risque,1
+RP-19390,Resi Pölking,East,Consumer,34,12,5153.084,465.25030000000015,4,5,5,455,14,Champions,2
+RP-19855,Roy Phan,Central,Corporate,29,8,2170.716,594.5868,4,4,3,443,11,Clients Fidèles,2
+RR-19315,Ralph Ritter,West,Consumer,20,2,615.932,-73.835,5,1,1,511,7,Perdus,4
+RR-19525,Rick Reed,East,Corporate,171,6,3302.2619999999997,721.6826,2,3,4,234,9,À Risque,4
+RS-19420,Ricardo Sperren,West,Corporate,77,5,3221.29,633.4513999999999,3,2,4,324,9,Potentiel Élevé,4
+RS-19765,Roland Schwarz,East,Corporate,37,8,4159.7699999999995,1206.3851,4,4,4,444,12,Champions,2
+RS-19870,Roy Skaria,Central,Home Office,20,2,22.328,9.5838,5,1,1,511,7,Perdus,4
+RW-19540,Rick Wilson,West,Corporate,121,7,7397.401,1586.6273,2,4,5,245,11,À Risque,0
+RW-19630,Rob Williams,Central,Corporate,90,9,3279.746,698.8325,3,5,4,354,12,Clients Fidèles,2
+RW-19690,Robert Waldorf,South,Consumer,80,5,3495.646,707.5503,3,2,4,324,9,Potentiel Élevé,4
+SA-20830,Sue Ann Reed,Central,Consumer,64,10,4767.3415,610.1496000000001,3,5,5,355,13,Clients Fidèles,2
+SB-20170,Sarah Bern,East,Consumer,202,3,1348.02,157.6658,2,1,2,212,5,Perdus,4
+SB-20185,Sarah Brown,East,Consumer,189,6,6410.996,885.4623999999999,2,3,5,235,10,À Risque,0
+SB-20290,Sean Braxton,Central,Corporate,48,7,8057.891,-2082.7451,4,4,5,445,13,Champions,0
+SC-20020,Sam Craven,Central,Consumer,782,5,3362.9636,-317.0508,1,2,4,124,7,À Risque,3
+SC-20050,Sample Company A,East,Home Office,41,9,4624.572,1011.7443,4,5,5,455,14,Champions,2
+SC-20095,Sanjit Chand,West,Consumer,350,9,14142.333999999999,5757.411899999999,1,5,5,155,11,À Risque,0
+SC-20230,Scot Coram,Central,Corporate,150,4,4371.9580000000005,440.14099999999996,2,2,5,225,9,À Risque,4
+SC-20260,Scott Cohen,West,Corporate,188,8,3729.7929999999997,671.0033999999999,2,4,4,244,10,À Risque,2
+SC-20305,Sean Christensen,Central,Consumer,30,7,3979.065,229.1617,4,4,4,444,12,Champions,2
+SC-20380,Shahid Collister,West,Consumer,31,9,5992.536,236.66149999999996,4,5,5,455,14,Champions,2
+SC-20440,Shaun Chance,West,Corporate,37,7,1874.998,379.5611,4,4,3,443,11,Clients Fidèles,2
+SC-20575,Sonia Cooley,Central,Consumer,93,5,902.7280000000001,100.2253,3,2,1,321,6,Potentiel Élevé,4
+SC-20680,Steve Carroll,South,Home Office,127,6,1254.64,370.1578,2,3,2,232,7,À Risque,4
+SC-20695,Steve Chapman,South,Corporate,90,10,2576.408,611.8291,3,5,3,353,11,Clients Fidèles,2
+SC-20725,Steven Cartwright,East,Consumer,188,11,5226.21,1276.6513,2,5,5,255,12,À Risque,2
+SC-20770,Stewart Carmichael,South,Corporate,42,7,4492.657,-671.1874,4,4,5,445,13,Champions,2
+SC-20800,Stuart Calhoun,Central,Consumer,31,4,279.25600000000003,51.8252,4,2,1,421,7,Potentiel Élevé,4
+SC-20845,Sung Chung,Central,Consumer,132,2,280.632,31.1757,2,1,1,211,4,Perdus,4
+SD-20485,Shirley Daniels,East,Home Office,201,9,6121.114,1985.1671999999999,2,5,5,255,12,À Risque,0
+SE-20110,Sanjit Engle,East,Consumer,10,11,12209.438000000002,2650.6769,5,5,5,555,15,Champions,0
+SF-20065,Sandra Flanagan,East,Consumer,60,7,763.5459999999999,228.1623,3,4,1,341,8,Potentiel Élevé,4
+SF-20200,Sarah Foster,West,Consumer,60,9,3422.7859999999996,286.9046,3,5,4,354,12,Clients Fidèles,2
+SF-20965,Sylvia Foulston,Central,Corporate,49,9,3336.535,539.9352,4,5,4,454,13,Champions,2
+SG-20080,Sandra Glassco,Central,Consumer,9,3,3406.5809999999997,570.438,5,1,4,514,10,Potentiel Élevé,4
+SG-20470,Sheri Gordon,East,Consumer,184,8,1884.798,-119.0105,2,4,3,243,9,À Risque,2
+SG-20605,Speros Goranitis,East,Consumer,109,6,3124.832,463.269,2,3,4,234,9,À Risque,4
+SG-20890,Susan Gilcrest,Central,Corporate,227,3,47.946,-3.7073,1,1,1,111,3,Perdus,1
+SH-19975,Sally Hughsby,West,Corporate,30,13,3406.8395,558.4739999999999,4,5,4,454,13,Champions,2
+SH-20395,Shahid Hopkins,South,Consumer,24,10,2180.718,-144.5229,5,5,3,553,13,Clients Fidèles,2
+SH-20635,Stefanie Holloman,South,Corporate,766,2,2096.392,260.6258,1,1,3,113,5,Perdus,3
+SJ-20125,Sanjit Jacobs,East,Home Office,96,12,3949.656,144.1189,3,5,4,354,12,Clients Fidèles,2
+SJ-20215,Sarah Jordon,Central,Consumer,30,6,1341.036,-23.5137,4,3,2,432,9,Potentiel Élevé,4
+SJ-20500,Shirley Jackson,Central,Consumer,254,5,1318.776,68.09629999999999,1,2,2,122,5,À Risque,1
+SK-19990,Sally Knutson,East,Consumer,9,3,883.409,168.7933,5,1,1,511,7,Perdus,4
+SL-20155,Sara Luxemburg,South,Home Office,71,7,3053.012,527.9715,3,4,4,344,11,Clients Fidèles,2
+SM-20005,Sally Matthias,East,Consumer,422,4,244.49399999999997,-26.5927,1,2,1,121,4,À Risque,1
+SM-20320,Sean Miller,South,Home Office,80,5,25043.05,-1980.7393,3,2,5,325,10,Potentiel Élevé,0
+SM-20905,Susan MacKendrick,East,Consumer,607,1,1043.041,-237.2885,1,1,2,112,4,Perdus,3
+SM-20950,Suzanne McNair,South,Corporate,26,12,5563.392,581.5741999999999,5,5,5,555,15,Champions,2
+SN-20560,Skye Norling,West,Home Office,112,6,1860.418,-716.8565000000001,2,3,3,233,8,À Risque,4
+SN-20710,Steve Nguyen,Central,Home Office,80,7,3127.9592,481.74989999999997,3,4,4,344,11,Clients Fidèles,2
+SO-20335,Sean O'Donnell,South,Consumer,30,6,2602.5755,-81.0858,4,3,3,433,10,Clients Fidèles,4
+SP-20545,Sibella Parks,East,Corporate,328,6,1306.086,-118.77570000000001,1,3,2,132,6,À Risque,1
+SP-20620,Stefania Perrino,East,Corporate,48,9,5440.319,-270.42819999999995,4,5,5,455,14,Champions,2
+SP-20650,Stephanie Phelps,West,Corporate,387,9,1872.4360000000001,268.4782,1,5,3,153,9,À Risque,1
+SP-20860,Sung Pak,East,Corporate,80,10,4282.94,566.7226,3,5,5,355,13,Clients Fidèles,2
+SP-20920,Susan Pistek,West,Consumer,71,6,3990.689,14.692400000000003,3,3,4,334,10,Clients Fidèles,4
+SR-20425,Sharelle Roach,West,Home Office,9,5,3233.481,-3333.9144,5,2,4,524,11,Potentiel Élevé,4
+SR-20740,Steven Roelle,East,Home Office,197,8,4345.8859999999995,1990.4243999999999,2,4,5,245,11,À Risque,2
+SS-20140,Saphhira Shifley,East,Corporate,16,8,1324.028,332.3487,5,4,2,542,11,Potentiel Élevé,2
+SS-20410,Shahid Shariari,West,Consumer,111,6,3056.8070000000002,-1010.9738,2,3,4,234,9,À Risque,4
+SS-20515,Shirley Schmidt,South,Home Office,492,3,613.4,199.93449999999999,1,1,1,111,3,Perdus,1
+SS-20590,Sonia Sunley,West,Consumer,433,6,418.49,135.5401,1,3,1,131,5,À Risque,1
+SS-20875,Sung Shariari,Central,Consumer,121,5,964.636,-75.586,2,2,2,222,6,À Risque,4
+ST-20530,Shui Tom,East,Consumer,126,7,433.34000000000003,84.4419,2,4,1,241,7,À Risque,4
+SU-20665,Stephanie Ulpright,South,Home Office,21,7,2595.364,763.4719,5,4,3,543,12,Clients Fidèles,2
+SV-20365,Seth Vernon,East,Consumer,102,10,11470.949999999999,1199.4242,3,5,5,355,13,Clients Fidèles,0
+SV-20785,Stewart Visinsky,West,Consumer,321,9,4105.305,485.0272,1,5,4,154,10,À Risque,2
+SV-20815,Stuart Van,Central,Corporate,77,4,1271.0900000000001,199.6502,3,2,2,322,7,Potentiel Élevé,4
+SV-20935,Susan Vittorini,East,Consumer,3,8,1903.491,106.8912,5,4,3,543,12,Clients Fidèles,2
+SW-20245,Scot Wooten,West,Consumer,82,7,1085.078,-19.60620000000001,3,4,2,342,9,Potentiel Élevé,4
+SW-20275,Scott Williamson,South,Consumer,31,6,1966.65,332.8725,4,3,3,433,10,Clients Fidèles,4
+SW-20350,Sean Wendt,Central,Home Office,163,3,1019.044,95.8383,2,1,2,212,5,Perdus,4
+SW-20455,Shaun Weien,South,Consumer,163,7,2921.544,793.6548,2,4,4,244,10,À Risque,2
+SW-20755,Steven Ward,East,Corporate,535,2,758.6959999999999,68.2416,1,1,1,111,3,Perdus,3
+SZ-20035,Sam Zeldin,West,Home Office,36,11,3625.329,366.43030000000005,4,5,4,454,13,Champions,2
+TA-21385,Tom Ashbrook,East,Home Office,70,4,14595.62,4703.7883,3,2,5,325,10,Potentiel Élevé,0
+TB-21055,Ted Butterfield,East,Consumer,120,5,1467.881,390.2113,2,2,2,222,6,À Risque,4
+TB-21175,Thomas Boland,Central,Corporate,59,4,3589.296,829.1635,3,2,4,324,9,Potentiel Élevé,4
+TB-21190,Thomas Brumley,South,Home Office,50,4,816.1740000000001,179.0038,4,2,1,421,7,Potentiel Élevé,4
+TB-21250,Tim Brockman,East,Consumer,350,7,1602.376,260.6155,1,4,2,142,7,À Risque,1
+TB-21280,Toby Braunhardt,East,Consumer,584,6,2198.45,490.9567,1,3,3,133,7,À Risque,1
+TB-21355,Todd Boyes,East,Corporate,147,5,834.328,268.967,2,2,1,221,5,À Risque,4
+TB-21400,Tom Boeckenhauer,West,Consumer,203,7,9133.99,2798.3689,2,4,5,245,11,À Risque,0
+TB-21520,Tracy Blumstein,East,Consumer,108,9,4737.486,-1603.0451,2,5,5,255,12,À Risque,2
+TB-21595,Troy Blackwell,Central,Consumer,286,5,1387.559,-136.4091,1,2,2,122,5,À Risque,1
+TB-21625,Trudy Brown,Central,Consumer,31,9,2797.668,379.882,4,5,4,454,13,Champions,2
+TC-20980,Tamara Chand,West,Corporate,400,5,19052.218,8981.323900000001,1,2,5,125,8,À Risque,0
+TC-21145,Theresa Coyne,East,Corporate,107,1,1038.26,265.5332,2,1,2,212,5,Perdus,4
+TC-21295,Toby Carlisle,West,Consumer,28,8,4266.812,606.3727,4,4,4,444,12,Champions,2
+TC-21475,Tony Chapman,South,Home Office,154,9,1244.976,119.104,2,5,2,252,9,À Risque,2
+TC-21535,Tracy Collins,South,Home Office,5,7,742.5580000000001,217.933,5,4,1,541,10,Potentiel Élevé,4
+TD-20995,Tamara Dahlen,East,Consumer,38,9,1434.5480000000002,88.1897,4,5,2,452,11,Potentiel Élevé,2
+TG-21310,Toby Gnade,West,Consumer,338,5,3058.372,682.1704,1,3,4,134,8,À Risque,1
+TG-21640,Trudy Glocke,West,Consumer,115,4,2074.661,365.7205,2,2,3,223,7,À Risque,4
+TH-21100,Thea Hendricks,West,Consumer,345,5,2422.824,-135.2125,1,3,3,133,7,À Risque,1
+TH-21115,Thea Hudgings,East,Corporate,59,4,2942.772,-252.5539,3,2,4,324,9,Potentiel Élevé,4
+TH-21235,Tiffany House,Central,Corporate,118,8,1022.201,92.729,2,4,2,242,8,À Risque,2
+TH-21550,Tracy Hopkins,East,Home Office,73,7,4234.0960000000005,-571.9678,3,4,4,344,11,Clients Fidèles,2
+TM-21010,Tamara Manning,West,Consumer,104,8,2955.2259999999997,573.3013,3,4,4,344,11,Clients Fidèles,2
+TM-21490,Tony Molinari,Central,Consumer,131,3,1094.6779999999999,292.52099999999996,2,1,2,212,5,Perdus,4
+TN-21040,Tanja Norvell,West,Home Office,91,7,3130.221,-692.0452,3,4,4,344,11,Clients Fidèles,2
+TP-21130,Theone Pippenger,East,Consumer,9,9,4454.0560000000005,1129.1261,5,5,5,555,15,Champions,2
+TP-21415,Tom Prescott,West,Consumer,105,5,5329.0048,-1087.3898,2,3,5,235,10,À Risque,4
+TP-21565,Tracy Poddar,West,Corporate,351,4,1936.6399999999999,139.22869999999995,1,2,3,123,6,À Risque,1
+TR-21325,Toby Ritter,East,Consumer,194,5,675.9419999999999,220.36440000000002,2,3,1,231,6,À Risque,4
+TS-21085,Thais Sissman,West,Consumer,358,2,4.833,-3.3156,1,1,1,111,3,Perdus,1
+TS-21160,Theresa Swint,East,Corporate,505,6,2163.6240000000003,260.87440000000004,1,3,3,133,7,À Risque,1
+TS-21205,Thomas Seio,East,Corporate,199,7,5371.09,862.8877,2,4,5,245,11,À Risque,2
+TS-21340,Toby Swindell,Central,Consumer,227,5,974.7819999999999,-184.97889999999998,1,3,2,132,6,À Risque,1
+TS-21370,Todd Sumrall,East,Corporate,37,6,11891.751,2371.7144000000003,4,3,5,435,12,Clients Fidèles,0
+TS-21430,Tom Stivers,West,Corporate,173,5,2054.14,48.70169999999999,2,3,3,233,8,À Risque,4
+TS-21505,Tony Sayre,South,Consumer,12,6,2243.274,11.377899999999983,5,3,3,533,11,Clients Fidèles,4
+TS-21610,Troy Staebel,West,Consumer,56,7,2820.424,-294.6981,3,4,4,344,11,Clients Fidèles,2
+TS-21655,Trudy Schmidt,Central,Consumer,239,5,3368.094,220.91629999999998,1,3,4,134,8,À Risque,1
+TT-21070,Ted Trevino,West,Consumer,32,7,4915.602,751.9567,4,4,5,445,13,Champions,2
+TT-21220,Thomas Thornton,Central,Consumer,184,8,1427.0439999999999,278.7371,2,4,2,242,8,À Risque,2
+TT-21265,Tim Taslimi,West,Corporate,407,3,439.5,93.9162,1,1,1,111,3,Perdus,1
+TT-21460,Tonja Turnell,Central,Home Office,13,7,5364.808,1124.4999,5,4,5,545,14,Champions,2
+TW-21025,Tamara Willingham,West,Home Office,65,7,5278.826,737.3905,3,4,5,345,12,Clients Fidèles,2
+TZ-21580,Tracy Zic,West,Consumer,36,4,1707.286,224.8887,4,2,2,422,8,Potentiel Élevé,4
+VB-21745,Victoria Brennan,South,Corporate,55,6,2005.596,371.2398,3,3,3,333,9,Clients Fidèles,4
+VD-21670,Valerie Dominguez,South,Consumer,582,6,6442.254,1617.7874000000002,1,3,5,135,9,À Risque,1
+VF-21715,Vicky Freymann,Central,Home Office,14,5,847.944,-96.27799999999999,5,3,1,531,9,Potentiel Élevé,4
+VG-21790,Vivek Gonzalez,West,Consumer,155,6,846.01,143.6268,2,3,1,231,6,À Risque,4
+VG-21805,Vivek Grady,South,Corporate,287,5,427.372,-52.333,1,3,1,131,5,À Risque,1
+VM-21685,Valerie Mitchum,East,Home Office,55,7,2454.866,513.5269,3,4,3,343,10,Clients Fidèles,2
+VM-21835,Vivian Mathis,East,Consumer,118,5,380.69,116.6373,2,3,1,231,6,À Risque,4
+VP-21730,Victor Preis,West,Home Office,31,3,993.9019999999999,205.3888,4,1,2,412,7,Perdus,4
+VP-21760,Victoria Pisteka,West,Corporate,76,7,3360.526,-1018.7768,3,4,4,344,11,Clients Fidèles,2
+VS-21820,Vivek Sundaresam,West,Consumer,222,4,1055.981,-262.8093,2,2,2,222,6,À Risque,1
+VT-21700,Valerie Takahito,East,Home Office,1001,2,1736.596,-224.08889999999997,1,1,2,112,4,Perdus,3
+VW-21775,Victoria Wilson,East,Corporate,29,10,6134.0380000000005,-874.6645,4,5,5,455,14,Champions,2
+WB-21850,William Brown,East,Consumer,21,11,6160.102,714.3311,5,5,5,555,15,Champions,2
+XP-21865,Xylona Preis,West,Consumer,44,11,2374.658,621.23,4,5,3,453,12,Clients Fidèles,2
+YC-21895,Yoseph Carroll,West,Corporate,5,5,5454.35,1305.629,5,3,5,535,13,Clients Fidèles,4
+YS-21880,Yana Sorensen,South,Corporate,10,8,6720.4439999999995,1778.2923,5,4,5,545,14,Champions,0
+ZC-21910,Zuschuss Carroll,West,Consumer,55,13,8025.707,-1032.1490000000001,3,5,5,355,13,Clients Fidèles,0
+ZD-21925,Zuschuss Donatelli,West,Consumer,203,5,1493.944,249.1307,2,3,2,232,7,À Risque,4
