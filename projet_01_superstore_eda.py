@@ -680,16 +680,5 @@ print("""
       viz_08_shipping.png              → Délais de livraison
       viz_09_ml_best_sellers_10y.png   → ML : Top 10 best-sellers prédits
       viz_10_ml_trajectories.png       → ML : Trajectoires 2015-2028
-
-   🎯 Pour votre GitHub :
-      1. Créez un repo "superstore-sales-eda"
-      2. Ajoutez ce script + dataset + visualisations
-      3. Rédigez un README.md professionnel
-      4. Ajoutez le lien GitHub à votre CV !
-
-   📝 Ligne CV :
-      "Analyse exploratoire de 9 994 transactions retail (Superstore Dataset)
-       — nettoyage, feature engineering, 10 visualisations, 5 recommandations
-       business et prédiction ML (Gradient Boosting) des best-sellers
-       sur 10 ans avec Python (Pandas, Scikit-learn, Matplotlib, Seaborn)"
+-learn, Matplotlib, Seaborn)"
 """)
