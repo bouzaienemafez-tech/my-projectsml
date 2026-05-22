@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.pyc
+
+# Too large for normal GitHub uploads without Git LFS.
+household_power_consumption.txt
