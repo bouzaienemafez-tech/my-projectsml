@@ -38,8 +38,3 @@ python -m pytest
 
 Some large datasets are intentionally kept out of Git. See `data-science-projects/README.md` for project-specific notes before running notebooks that expect local data files.
 
-## Next Improvements
-
-- Add one screenshot or result chart per project.
-- Add short run commands for each project folder.
-- Move generated reports and charts into a dedicated `reports/` folder if the repository continues to grow.
